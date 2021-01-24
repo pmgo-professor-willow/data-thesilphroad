@@ -102,9 +102,9 @@ const getResearches = async () => {
   });
 
   const sortedResearches = _.orderBy(researches, (research) => {
-    const matchedTag = tags.find((tag) => tag.text === research.category);
+    const matchedTag = tags.find((tag) => tag.displayText === research.category);
     return matchedTag?.priority;
-  });
+  }, ['asc']);
 
   return sortedResearches;
 };
