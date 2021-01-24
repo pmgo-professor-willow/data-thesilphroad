@@ -88,7 +88,7 @@ const getResearches = async () => {
             max: maxCP,
           },
           shinyAvailable,
-          imageUrl: urlJoin(assetUrl, `pokemon_icon_${no}_00.png`),
+          imageUrl: urlJoin(assetUrl, `pokemon_icon_${no.toString().padStart(3, '0')}_00.png`),
         };
       });
 
