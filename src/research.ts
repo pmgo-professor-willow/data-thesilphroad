@@ -73,8 +73,8 @@ const getResearches = async () => {
 
         // CP
         const { 1: minCpItem, 3: maxCpItem } = rewardPokemonItem.querySelectorAll('.cp p')!;
-        const minCP = parseInt(minCpItem.rawText.trim());
-        const maxCP = parseInt(maxCpItem.rawText.trim());
+        const minCP = parseInt(minCpItem.rawText.trim().replace(/,/g, ''));
+        const maxCP = parseInt(maxCpItem.rawText.trim().replace(/,/g, ''));
 
         // Shiny Available
         const shinyAvailable = !!rewardPokemonItem.getAttribute('class')?.includes('shinyAvailable');
