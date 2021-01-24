@@ -1,34 +1,42 @@
 [
     {
         "text": "Event Tasks",
-        "displayText": "活動限定"
+        "displayText": "活動限定",
+        "priority": 1
     },
     {
         "text": "Catching Tasks",
-        "displayText": "捕捉"
+        "displayText": "捕捉",
+        "priority": 11
     },
     {
         "text": "Buddy/Friendship Tasks",
-        "displayText": "夥伴 / 友情"
+        "displayText": "夥伴 / 友情",
+        "priority": 12
     },
     {
         "text": "Throwing Tasks",
-        "displayText": "投球"
+        "displayText": "投球",
+        "priority": 13
     },
     {
         "text": "Battling Tasks",
-        "displayText": "對戰"
+        "displayText": "對戰",
+        "priority": 21
     },
     {
         "text": "AR Mapping Tasks",
-        "displayText": "AR Mapping"
+        "displayText": "AR Mapping",
+        "priority": 51
     },
     {
         "text": "Sponsored Tasks",
-        "displayText": "贊助據點"
+        "displayText": "贊助據點",
+        "priority": 101
     },
     {
         "text": "Miscellaneous Tasks",
-        "displayText": "其他類型"
+        "displayText": "其他類型",
+        "priority": 999
     }
 ]

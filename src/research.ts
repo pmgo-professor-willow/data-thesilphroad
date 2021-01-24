@@ -101,7 +101,12 @@ const getResearches = async () => {
     });
   });
 
-  return researches;
+  const sortedResearches = _.orderBy(researches, (research) => {
+    const matchedTag = tags.find((tag) => tag.text === research.category);
+    return matchedTag?.priority;
+  });
+
+  return sortedResearches;
 };
 
 export {
