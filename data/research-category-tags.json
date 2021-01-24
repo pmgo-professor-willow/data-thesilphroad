@@ -1,0 +1,34 @@
+[
+    {
+        "text": "Event Tasks",
+        "displayText": "活動限定任務"
+    },
+    {
+        "text": "Catching Tasks",
+        "displayText": "捕捉任務"
+    },
+    {
+        "text": "Buddy/Friendship Tasks",
+        "displayText": "夥伴/友情任務"
+    },
+    {
+        "text": "Throwing Tasks",
+        "displayText": "投球任務"
+    },
+    {
+        "text": "Battling Tasks",
+        "displayText": "對戰任務"
+    },
+    {
+        "text": "AR Mapping Tasks",
+        "displayText": "AR Mapping"
+    },
+    {
+        "text": "Sponsored Tasks",
+        "displayText": "贊助據點任務"
+    },
+    {
+        "text": "Miscellaneous Tasks",
+        "displayText": "其他類型"
+    }
+]

@@ -1,0 +1,106 @@
+[
+    {
+        "pattern": "^Power up a Pokémon (\\d+) times\\.{0,1}$",
+        "displayText": "強化寶可夢 %1$s 次"
+    },
+    {
+        "pattern": "^Power up Pokémon (\\d+) times\\.{0,1}$",
+        "displayText": "強化寶可夢 %1$s 次"
+    },
+    {
+        "pattern": "^Evolve a Pokémon\\.{0,1}$",
+        "displayText": "進化 1 隻寶可夢"
+    },
+    {
+        "pattern": "^Catch (\\d+) Pokémon\\.{0,1}$",
+        "displayText": "捕捉 %1$s 隻寶可夢"
+    },
+    {
+        "pattern": "^Catch (\\d+) Pokémon with Weather Boost\\.{0,1}$",
+        "displayText": "捕捉 %1$s 隻具有天氣優勢的寶可夢"
+    },
+    {
+        "pattern": "^Catch a (\\w+-type) Pokémon\\.{0,1}$",
+        "displayText": "捕捉 1 隻 %1$s 系寶可夢"
+    },
+    {
+        "pattern": "^Catch (\\d+) (\\w+-type) Pokémon\\.{0,1}$",
+        "displayText": "捕捉 %1$s 隻 %2$s 系寶可夢"
+    },
+    {
+        "pattern": "^Catch a Ditto\\.{0,1}$",
+        "displayText": "捕捉 1 隻百變怪"
+    },
+    {
+        "pattern": "^Catch (\\d+) different species of Pokémon.\\.{0,1}$",
+        "displayText": "捕捉 %1$s 種不同的寶可夢"
+    },
+    {
+        "pattern": "^Hatch an Egg\\.{0,1}$",
+        "displayText": "孵化 1 顆蛋"
+    },
+    {
+        "pattern": "^Give your buddy (\\d+) treats\\.{0,1}$",
+        "displayText": "餵夥伴吃 %1$s 個點心"
+    },
+    {
+        "pattern": "^Earn (\\d+) hearts with your buddy\\.{0,1}$",
+        "displayText": "和夥伴獲得 %1$s 顆心心"
+    },
+    {
+        "pattern": "^Make (\\d+) Curveball Throws in a row\\.{0,1}$",
+        "displayText": "連續投出 %1$s 次曲球"
+    },
+    {
+        "pattern": "^Make (\\d+) (\\w+) Curveball Throws in a row\\.{0,1}$",
+        "displayText": "連續用曲球投出 %1$s 次 %2$s"
+    },
+    {
+        "pattern": "^Make a?n (\\w+) Throw\\.{0,1}$",
+        "displayText": "投出 1 次 %1$s"
+    },
+    {
+        "pattern": "^Make (\\d+) (\\w+) Throws\\.{0,1}$",
+        "displayText": "投出 %1$s 次 %2$s"
+    },
+    {
+        "pattern": "^Make (\\d+) (\\w+) Curveball Throws\\.{0,1}$",
+        "displayText": "用曲球投出 %1$s 次 %2$s"
+    },
+    {
+        "pattern": "^Make (\\d+) (\\w+) Throws in a row\\.{0,1}$",
+        "displayText": "連續投出 %1$s 次 %2$s"
+    },
+    {
+        "pattern": "^Use (\\d+) Berries to help Catch Pokémon\\.{0,1}$",
+        "displayText": "使用 %1$s 個莓果來捕捉寶可夢"
+    },
+    {
+        "pattern": "^Defeat (\\d+) Team GO Rocket Grunts\\.{0,1}$",
+        "displayText": "打敗 %1$s 次火箭隊手下"
+    },
+    {
+        "pattern": "^Win a raid\\.{0,1}$",
+        "displayText": "團體戰勝利 1 次"
+    },
+    {
+        "pattern": "^Win (\\d+) raids\\.{0,1}$",
+        "displayText": "團體戰勝利 %1$s 次"
+    },
+    {
+        "pattern": "^Win a level 3 or higher raid\\.{0,1}$",
+        "displayText": "在等級三以上的團體戰中獲勝 1 次"
+    },
+    {
+        "pattern": "^Send (\\d+) Gifts to friends\\.{0,1}$",
+        "displayText": "發送 %1$s 個友情禮物"
+    },
+    {
+        "pattern": "^Trade a Pokémon\\.{0,1}$",
+        "displayText": "交換 1 次寶可夢"
+    },
+    {
+        "pattern": "^Spin (\\d+) PokéStops or Gyms\\.{0,1}$",
+        "displayText": "旋轉 %1$s 個寶可補給站或道館"
+    }
+]
