@@ -1,9 +1,9 @@
 {
-  "name": "pmgo-thesilphroad",
+  "name": "data-thesilphroad",
   "version": "0.1.0",
   "description": "Get latest Pokemon GO information from The Silph Road website.",
   "main": "dist/index.js",
-  "repository": "https://github.com/pmgo-professor-willow/pmgo-thesilphroad",
+  "repository": "https://github.com/pmgo-professor-willow/data-thesilphroad",
   "author": "Ze-Hao Wang",
   "license": "MIT",
   "scripts": {
