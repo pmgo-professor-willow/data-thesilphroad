@@ -12,8 +12,24 @@
         "displayText": "進化 1 隻寶可夢"
     },
     {
+        "pattern": "^Purify a Shadow Pokémon\\.{0,1}$",
+        "displayText": "淨化 1 隻暗影寶可夢"
+    },
+    {
+        "pattern": "^Purify (\\d+) Shadow Pokémon\\.{0,1}$",
+        "displayText": "淨化 %1$s 隻暗影寶可夢"
+    },
+    {
+        "pattern": "^Catch a Pokémon\\.{0,1}$",
+        "displayText": "捕捉 1 隻寶可夢"
+    },
+    {
         "pattern": "^Catch (\\d+) Pokémon\\.{0,1}$",
         "displayText": "捕捉 %1$s 隻寶可夢"
+    },
+    {
+        "pattern": "^Catch a Pokémon with Weather Boost\\.{0,1}$",
+        "displayText": "捕捉 1 隻具有天氣優勢的寶可夢"
     },
     {
         "pattern": "^Catch (\\d+) Pokémon with Weather Boost\\.{0,1}$",
@@ -94,6 +110,10 @@
     {
         "pattern": "^Win a level 3 or higher raid\\.{0,1}$",
         "displayText": "在等級三以上的團體戰中獲勝 1 次"
+    },
+    {
+        "pattern": "^Win in the GO Battle League\\.{0,1}$",
+        "displayText": "在 GO 對戰聯盟獲得 1 場勝利"
     },
     {
         "pattern": "^Send (\\d+) Gifts to friends\\.{0,1}$",
