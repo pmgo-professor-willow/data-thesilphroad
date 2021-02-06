@@ -1,0 +1,78 @@
+[
+    {
+        "pattern": "Normal does not mean weak.",
+        "displayText": "你以為一般屬性很弱嗎？"
+    },
+    {
+        "pattern": "Do you know how hot Pokémon fire breath can get?",
+        "displayText": "你知道寶可夢吐出的火焰有多熱嗎？"
+    },
+    {
+        "pattern": "These waters are treacherous!",
+        "displayText": "這片海域很危險！"
+    },
+    {
+        "pattern": "Get ready to be shocked!",
+        "displayText": "你就等著被電吧！"
+    },
+    {
+        "pattern": "Don't tangle with us!",
+        "displayText": "我們可是野火燒不盡，春風吹又生！"
+    },
+    {
+        "pattern": "You're gonna be frozen in your tracks.",
+        "displayText": "我要把你們全部凍僵！"
+    },
+    {
+        "pattern": "This buff physique isn't just for show!",
+        "displayText": "這飽滿的肌肉可不是擺著好看的！"
+    },
+    {
+        "pattern": "Coiled and ready to strike!",
+        "displayText": "好好嚐嚐著猛毒吧！"
+    },
+    {
+        "pattern": "You'll be defeated into the ground!",
+        "displayText": "我會把你重重摔到地面上！"
+    },
+    {
+        "pattern": "Battle against my Flying-type Pokémon!",
+        "displayText": "讓你見識見識我華麗的飛行屬性寶可夢！"
+    },
+    {
+        "pattern": "Are you scared of psychics that use unseen power?",
+        "displayText": "使用看不見力量的超能力者是不是讓你很害怕啊？"
+    },
+    {
+        "pattern": "Go, my super bug Pokémon!",
+        "displayText": "我可愛的昆蟲寶可夢，上吧！"
+    },
+    {
+        "pattern": "Let's rock and roll!",
+        "displayText": "Let's rock and roll！"
+    },
+    {
+        "pattern": "Ke...ke...ke...ke...ke...ke!",
+        "displayText": "科、科科、科科科！"
+    },
+    {
+        "pattern": "ROAR! ...How'd that sound?",
+        "displayText": "吼喔喔喔喔！怎樣，嚇到了吧！"
+    },
+    {
+        "pattern": "Wherever there is light, there is also shadow.",
+        "displayText": "有光的地方，就會有影子！"
+    },
+    {
+        "pattern": "You’re no match for my iron will!",
+        "displayText": "我的意志跟鋼鐵一樣強韌！"
+    },
+    {
+        "pattern": "Check out my cute Pokémon!",
+        "displayText": "看看我這可愛的寶可夢！"
+    },
+    {
+        "pattern": "Don't bother - I've already won!\nGet ready to be defeated!\nWinning is for winners!",
+        "displayText": "你怎麼可能打得過我呢。\n你就等著打輸吧！\n只有贏家才能贏！"
+    }
+]

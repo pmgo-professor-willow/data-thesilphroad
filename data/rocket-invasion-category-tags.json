@@ -1,0 +1,137 @@
+[
+    {
+        "text": "Normal",
+        "displayText": "一般",
+        "priority": 1
+    },
+    {
+        "text": "Fire",
+        "displayText": "火",
+        "priority": 2
+    },
+    {
+        "text": "Water",
+        "displayText": "水",
+        "priority": 3
+    },
+    {
+        "text": "Grass",
+        "displayText": "草",
+        "priority": 4
+    },
+    {
+        "text": "Electric",
+        "displayText": "電",
+        "priority": 5
+    },
+    {
+        "text": "Fighting",
+        "displayText": "格鬥",
+        "priority": 6
+    },
+    {
+        "text": "Poison",
+        "displayText": "毒",
+        "priority": 7
+    },
+    {
+        "text": "Ground",
+        "displayText": "地面",
+        "priority": 8
+    },
+    {
+        "text": "Flying",
+        "displayText": "飛行",
+        "priority": 9
+    },
+    {
+        "text": "Psychic",
+        "displayText": "超能力",
+        "priority": 10
+    },
+    {
+        "text": "Bug",
+        "displayText": "蟲",
+        "priority": 11
+    },
+    {
+        "text": "Rock",
+        "displayText": "岩石",
+        "priority": 12
+    },
+    {
+        "text": "Ghost",
+        "displayText": "幽靈",
+        "priority": 13
+    },
+    {
+        "text": "Ice",
+        "displayText": "冰",
+        "priority": 14
+    },
+    {
+        "text": "Dragon",
+        "displayText": "龍",
+        "priority": 15
+    },
+    {
+        "text": "Dark",
+        "displayText": "惡",
+        "priority": 16
+    },
+    {
+        "text": "Steel",
+        "displayText": "鋼",
+        "priority": 17
+    },
+    {
+        "text": "Fighting",
+        "displayText": "妖精",
+        "priority": 18
+    },
+    {
+        "text": "Typeless",
+        "displayText": "無法判斷",
+        "priority": 21
+    },
+    {
+        "text": "Magikarp",
+        "displayText": "鯉魚王",
+        "priority": 31
+    },
+    {
+        "text": "Leader Sierra",
+        "displayText": "幹部 希爾拉",
+        "priority": 51
+    },
+    {
+        "text": "Leader Arlo",
+        "displayText": "幹部 亞洛",
+        "priority": 52
+    },
+    {
+        "text": "Leader Cliff",
+        "displayText": "幹部 克里夫",
+        "priority": 53
+    },
+    {
+        "text": "Decoy Grunt",
+        "displayText": "冒牌手下",
+        "priority": 53
+    },
+    {
+        "text": "Giovanni",
+        "displayText": "阪木老大",
+        "priority": 54
+    },
+    {
+        "text": "James",
+        "displayText": "小次郎",
+        "priority": 71
+    },
+    {
+        "text": "Jessie",
+        "displayText": "武藏",
+        "priority": 72
+    }
+]
