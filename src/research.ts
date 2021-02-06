@@ -3,7 +3,7 @@ import _ from 'lodash';
 import fetch from 'node-fetch';
 import { parse } from 'node-html-parser';
 import urlJoin from 'url-join';
-import { getPokemonNameByNo } from 'pmgo-pokedex';
+import { getPokemonNameByNo, transType } from 'pmgo-pokedex';
 import { sprintf } from 'sprintf-js';
 // Local modules.
 import { hostUrl, assetUrl } from './utils';
@@ -43,10 +43,19 @@ const translateDescription = (description: string) => {
 
   if (matchedRule) {
     const [, ...matches] = description.match(new RegExp(matchedRule.pattern, 'i'))!;
-    return sprintf(matchedRule.displayText, ...matches);
-  } else {
-    return description;
+
+    // Translate term 'pokemon type'.
+    const types = description.match(/(\w+-type)/ig) || [];
+
+    const translatedDescription = types.reduce((currentDisplayText, type) => {
+      return currentDisplayText.replace(type, transType(type)!);
+    }, sprintf(matchedRule.displayText, ...matches));
+
+    return translatedDescription;
   }
+
+  // Cannot find any rule from dictionary, keep original.
+  return description;
 };
 
 const getResearches = async () => {
