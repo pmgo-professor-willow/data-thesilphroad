@@ -77,7 +77,7 @@ const getResearches = async () => {
         const imageUrlRaw = rewardPokemonItem.querySelector('img').getAttribute('src')!;
 
         // No.
-        const { 1: noText } = imageUrlRaw.match(/(\d+)\.png$/)!;
+        const { 1: noText } = imageUrlRaw.match(/(\d+)\.png$/) || [];
         const no = parseInt(noText);
 
         // CP
