@@ -3,7 +3,7 @@ import _ from 'lodash';
 import fetch from 'node-fetch';
 import { parse } from 'node-html-parser';
 import urlJoin from 'url-join';
-import { getPokemonNameByNo, transType } from 'pmgo-pokedex';
+import { getPokemonNameByNo, getPokemonByFuzzyName, transType } from 'pmgo-pokedex';
 import { sprintf } from 'sprintf-js';
 // Local modules.
 import { hostUrl, assetUrl } from './utils';
@@ -77,8 +77,22 @@ const getResearches = async () => {
         const imageUrlRaw = rewardPokemonItem.querySelector('img').getAttribute('src')!;
 
         // No.
-        const { 1: noText } = imageUrlRaw.match(/(\d+)\.png$/) || [];
-        const no = parseInt(noText);
+        let no = -1;
+        let form = "";
+        switch (true) {
+          case /(\d+)\.png$/.test(imageUrlRaw): {
+            const { 1: noText } = imageUrlRaw.match(/(\d+)\.png$/)!;
+            no = parseInt(noText);
+            break;
+          }
+          case /([\w-]+)\.png$/.test(imageUrlRaw): {
+            const { 1: nameText } = imageUrlRaw.match(/([\w-]+)\.png$/)!;
+            const pokemon = getPokemonByFuzzyName(nameText);
+            no = pokemon.no;
+            form = pokemon.form;
+            break;
+          }
+        }
 
         // CP
         const { 1: minCpItem, 3: maxCpItem } = rewardPokemonItem.querySelectorAll('.cp p')!;
@@ -87,6 +101,14 @@ const getResearches = async () => {
 
         // Shiny Available
         const shinyAvailable = !!rewardPokemonItem.getAttribute('class')?.includes('shinyAvailable');
+
+        // Image Url bases on form (_00: normal ; _31: galarian ; _61: alolan)
+        let formIndex = "00";
+        if (form === "阿羅拉") {
+          formIndex = "61";
+        } else if (form === "伽勒爾") {
+          formIndex = "31";
+        }
 
         return {
           no,
@@ -97,7 +119,7 @@ const getResearches = async () => {
             max: maxCP,
           },
           shinyAvailable,
-          imageUrl: urlJoin(assetUrl, `pokemon_icon_${no.toString().padStart(3, '0')}_00.png`),
+          imageUrl: urlJoin(assetUrl, `pokemon_icon_${no.toString().padStart(3, '0')}_${formIndex}.png`),
         };
       });
 

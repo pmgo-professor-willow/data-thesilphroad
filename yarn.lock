@@ -168,15 +168,16 @@ node-html-parser@^2.0.0:
   dependencies:
     he "1.2.0"
 
-pmgo-pokedex@^0.1.5:
-  version "0.1.5"
-  resolved "https://registry.yarnpkg.com/pmgo-pokedex/-/pmgo-pokedex-0.1.5.tgz#e24e18ad7ff2762979150f29eeb11f8ec01d5c2d"
-  integrity sha512-LG4SniPRSVwr+u/vm9pni6R1oW1v/ZLfDRfKyiFGY1aTYo1RobCP3eHrgHCgRrKAdaPPOU2KXFCzQDk1zZs2ag==
+pmgo-pokedex@^0.1.6:
+  version "0.1.6"
+  resolved "https://registry.yarnpkg.com/pmgo-pokedex/-/pmgo-pokedex-0.1.6.tgz#1fd5be4e6a2c1af7beb41a41a24467a2e8902ecb"
+  integrity sha512-IfFFMJGK2mxENRfe5alNDPwB+k80wOCO0mEK0vAWpkYKDJx5EroUivEeR5lMmJnjKK/xn6rFe+O3uWtB11ikgA==
   dependencies:
     fs-extra "^9.0.1"
     lodash "^4.17.20"
     node-fetch "^2.6.1"
     node-html-parser "^2.0.0"
+    string-similarity "^4.0.4"
     url-join "^4.0.1"
 
 source-map-support@^0.5.17:
@@ -196,6 +197,11 @@ sprintf-js@^1.1.2:
   version "1.1.2"
   resolved "https://registry.yarnpkg.com/sprintf-js/-/sprintf-js-1.1.2.tgz#da1765262bf8c0f571749f2ad6c26300207ae673"
   integrity sha512-VE0SOVEHCk7Qc8ulkWw3ntAzXuqf7S2lvwQaDLRnUeIEaKNQJzV6BwmLKhOqT61aGhfUMrXeaBk+oDGCzvhcug==
+
+string-similarity@^4.0.4:
+  version "4.0.4"
+  resolved "https://registry.yarnpkg.com/string-similarity/-/string-similarity-4.0.4.tgz#42d01ab0b34660ea8a018da8f56a3309bb8b2a5b"
+  integrity sha512-/q/8Q4Bl4ZKAPjj8WerIBJWALKkaPRfrvhfF8k/B23i4nzrlRj2/go1m90In7nG/3XDSbOo0+pu6RvCTM9RGMQ==
 
 ts-node@^9.1.1:
   version "9.1.1"
