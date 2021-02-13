@@ -3,7 +3,7 @@ import _ from 'lodash';
 import fetch from 'node-fetch';
 import { parse } from 'node-html-parser';
 import urlJoin from 'url-join';
-import { getPokemonNameByNo } from 'pmgo-pokedex';
+import { getPokemonNameByNo, getPokemonByFuzzyName } from 'pmgo-pokedex';
 import { sprintf } from 'sprintf-js';
 // Local modules.
 import { hostUrl, assetUrl } from './utils';
@@ -24,6 +24,7 @@ interface LineupPokemon {
   no: number;
   name: string;
   originalName: string;
+  types: string[];
   catchable: boolean;
   shinyAvailable: boolean;
   imageUrl: string;
@@ -70,8 +71,31 @@ const getRocketInvasions = async () => {
         const imageUrlRaw = imageUrlsRaw.find((urlRaw) => !urlRaw.getAttribute('class'))!.getAttribute('src')!;
 
         // No.
-        const { 1: noText } = imageUrlRaw.match(/(\d+)\.png$/)!;
-        const no = parseInt(noText);
+        let no = -1;
+        let form = '';
+        let name = '';
+        let originalName = '';
+        const types: string[] = [];
+        switch (true) {
+          case /(\d+)\.png$/.test(imageUrlRaw): {
+            const { 1: noText } = imageUrlRaw.match(/(\d+)\.png$/)!;
+            no = parseInt(noText);
+            name = getPokemonNameByNo(no, 'zh-TW')!;
+            originalName = getPokemonNameByNo(no, 'en-US')!;
+            types.push(...getPokemonByFuzzyName(originalName).types);
+            break;
+          }
+          case /([\w-]+)\.png$/.test(imageUrlRaw): {
+            const { 1: nameText } = imageUrlRaw.match(/([\w-]+)\.png$/)!;
+            const pokemon = getPokemonByFuzzyName(nameText);
+            no = pokemon.no;
+            form = pokemon.form;
+            name = getPokemonNameByNo(no, 'zh-TW')!;
+            originalName = getPokemonNameByNo(no, 'en-US')!;
+            types.push(...pokemon.types);
+            break;
+          }
+        }
 
         // Catchable
         const catchable = !!lineupPokemonItem.querySelectorAll('.icons .pokeballIcon').length;
@@ -79,14 +103,23 @@ const getRocketInvasions = async () => {
         // Shiny Available
         const shinyAvailable = !!lineupPokemonItem.querySelectorAll('.icons .shinyIcon').length;
 
+        // Image Url bases on form (_00: normal ; _31: galarian ; _61: alolan)
+        let formIndex = '00';
+        if (form === '阿羅拉') {
+          formIndex = '61';
+        } else if (form === '伽勒爾') {
+          formIndex = '31';
+        }
+
         all.push({
           slotNo,
           no,
-          name: getPokemonNameByNo(no, 'zh-TW')!,
-          originalName: getPokemonNameByNo(no, 'en-US')!,
+          name,
+          originalName,
+          types,
           catchable,
           shinyAvailable,
-          imageUrl: urlJoin(assetUrl, `pokemon_icon_${no.toString().padStart(3, '0')}_00.png`),
+          imageUrl: urlJoin(assetUrl, `pokemon_icon_${no.toString().padStart(3, '0')}_${formIndex}.png`),
         });
       });
 
