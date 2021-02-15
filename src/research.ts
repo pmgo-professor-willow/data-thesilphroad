@@ -29,7 +29,10 @@ interface RewardPokemon {
 }
 
 const categoryMapping = (categoryTag: string) => {
-  const matchedTag = tags.find((tag) => tag.text === categoryTag);
+  const matchedTag = tags.find((tag) => {
+    return tag.text === categoryTag
+      || new RegExp(tag.text, 'i').test(categoryTag);
+  });
 
   if (matchedTag) {
     return matchedTag.displayText;
@@ -47,9 +50,16 @@ const translateDescription = (description: string) => {
     // Translate term 'pokemon type'.
     const types = description.match(/(\w+-type)/ig) || [];
 
-    const translatedDescription = types.reduce((currentDisplayText, type) => {
+    let translatedDescription = types.reduce((currentDisplayText, type) => {
       return currentDisplayText.replace(type, transType(type)!);
     }, sprintf(matchedRule.displayText, ...matches));
+
+    // Replace specific pokemon name.
+    const pokemonNamePatterns = translatedDescription.match(/##POKEMON_(\w+)##/g) || [];
+    pokemonNamePatterns.forEach((pokemonNamePattern) => {
+      const { 1: pokemonRawName } = pokemonNamePattern.match(/##POKEMON_(\w+)##/)!;
+      translatedDescription = translatedDescription.replace(pokemonNamePattern, getPokemonByFuzzyName(pokemonRawName).name);
+    });
 
     return translatedDescription;
   }
