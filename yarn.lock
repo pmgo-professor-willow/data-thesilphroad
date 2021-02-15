@@ -168,10 +168,10 @@ node-html-parser@^2.0.0:
   dependencies:
     he "1.2.0"
 
-pmgo-pokedex@^0.1.7:
-  version "0.1.7"
-  resolved "https://registry.yarnpkg.com/pmgo-pokedex/-/pmgo-pokedex-0.1.7.tgz#f7af7d9699ad54ce0b2dfc8e461f961ee0454e35"
-  integrity sha512-8Vo34morKifKggCw8mszcPCVQVnIlCUaWl1qw9TRYbB/jhRDz1ztq4yGClfXFzHCJ/uscQ4bkZadn1PRUnz5/w==
+pmgo-pokedex@^0.1.8:
+  version "0.1.8"
+  resolved "https://registry.yarnpkg.com/pmgo-pokedex/-/pmgo-pokedex-0.1.8.tgz#e623caa2f11fd2d4f8c74fdc6cb58b0bfcb295d1"
+  integrity sha512-YfZgBbFNfUkyIWHO9cVTutn3aA6VUc3YjA35JQmnjFHiCvjswuNwpkN9mc0bQx/CbKsTsFlbvEgg7wGRUM8I4A==
   dependencies:
     fs-extra "^9.0.1"
     lodash "^4.17.20"
