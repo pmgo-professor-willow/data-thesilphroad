@@ -60,6 +60,18 @@
         "displayText": "孵化 1 顆蛋"
     },
     {
+        "pattern": "^Hatch (\\d+) Eggs\\.{0,1}$",
+        "displayText": "孵化 %1$s 顆蛋"
+    },
+    {
+        "pattern": "^Transfer a Pokémon\\.{0,1}$",
+        "displayText": "傳送 1 隻寶可夢"
+    },
+    {
+        "pattern": "^Transfer (\\d+) Pokémon\\.{0,1}$",
+        "displayText": "傳送 %1$s 隻寶可夢"
+    },
+    {
         "pattern": "^Take a snapshot of your buddy\\.{0,1}$",
         "displayText": "為夥伴拍攝 1 張照片"
     },
