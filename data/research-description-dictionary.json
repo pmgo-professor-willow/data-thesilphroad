@@ -76,6 +76,10 @@
         "displayText": "為夥伴拍攝 1 張照片"
     },
     {
+        "pattern": "Take a snapshot of an (\\w+-type) Pokémon\\.{0,1}$",
+        "displayText": "為%1$s系寶可夢拍攝 1 張照片"
+    },
+    {
         "pattern": "^Give your buddy (\\d+) treats\\.{0,1}$",
         "displayText": "餵夥伴吃 %1$s 個點心"
     },
@@ -142,5 +146,9 @@
     {
         "pattern": "^Spin (\\d+) PokéStops or Gyms\\.{0,1}$",
         "displayText": "旋轉 %1$s 個寶可補給站或道館"
+    },
+    {
+        "pattern": "^Use an Incense\\.{0,1}$",
+        "displayText": "使用一個薰香"
     }
 ]
