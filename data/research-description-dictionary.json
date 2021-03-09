@@ -132,6 +132,10 @@
         "displayText": "在等級三以上的團體戰中獲勝 1 次"
     },
     {
+        "pattern": "^Battle in GO Battle League\\.{0,1}$",
+        "displayText": "在 GO 對戰聯盟進行對戰"
+    },
+    {
         "pattern": "^Win in the GO Battle League\\.{0,1}$",
         "displayText": "在 GO 對戰聯盟獲得 1 場勝利"
     },
@@ -149,6 +153,6 @@
     },
     {
         "pattern": "^Use an Incense\\.{0,1}$",
-        "displayText": "使用一個薰香"
+        "displayText": "使用 1 個薰香"
     }
 ]
