@@ -88,6 +88,10 @@
         "displayText": "和夥伴獲得 %1$s 顆心心"
     },
     {
+        "pattern": "^Earn a candy walking with your buddy\\.{0,1}$",
+        "displayText": "和夥伴一起走路，取得 1 顆糖果"
+    },
+    {
         "pattern": "^Make (\\d+) Curveball Throws in a row\\.{0,1}$",
         "displayText": "連續投出 %1$s 次曲球"
     },
