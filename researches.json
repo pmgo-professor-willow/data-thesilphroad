@@ -1,0 +1,736 @@
+[
+  {
+    "description": "捕捉 5 隻電系寶可夢",
+    "originalDescription": "Catch 5 Electric-type Pokémon.",
+    "category": "活動限定",
+    "rewardPokemons": [
+      {
+        "no": 25,
+        "name": "皮卡丘",
+        "originalName": "Pikachu",
+        "cp": {
+          "min": 369,
+          "max": 402
+        },
+        "shinyAvailable": true,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_025_00.png"
+      },
+      {
+        "no": 100,
+        "name": "霹靂電球",
+        "originalName": "Voltorb",
+        "cp": {
+          "min": 399,
+          "max": 432
+        },
+        "shinyAvailable": true,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_100_00.png"
+      },
+      {
+        "no": 595,
+        "name": "電電蟲",
+        "originalName": "Joltik",
+        "cp": {
+          "min": 404,
+          "max": 438
+        },
+        "shinyAvailable": false,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_595_00.png"
+      }
+    ]
+  },
+  {
+    "description": "捕捉 25 隻電系寶可夢",
+    "originalDescription": "Catch 25 Electric-type Pokémon.",
+    "category": "活動限定",
+    "rewardPokemons": [
+      {
+        "no": 602,
+        "name": "麻麻小魚",
+        "originalName": "Tynamo",
+        "cp": {
+          "min": 317,
+          "max": 347
+        },
+        "shinyAvailable": false,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_602_00.png"
+      }
+    ]
+  },
+  {
+    "description": "強化寶可夢 5 次",
+    "originalDescription": "Power up Pokémon 5 times.",
+    "category": "活動限定",
+    "rewardPokemons": []
+  },
+  {
+    "description": "強化寶可夢 7 次",
+    "originalDescription": "Power up Pokémon 7 times.",
+    "category": "活動限定",
+    "rewardPokemons": []
+  },
+  {
+    "description": "強化寶可夢 7 次",
+    "originalDescription": "Power up Pokémon 7 times.",
+    "category": "活動限定",
+    "rewardPokemons": []
+  },
+  {
+    "description": "強化寶可夢 7 次",
+    "originalDescription": "Power up Pokémon 7 times.",
+    "category": "活動限定",
+    "rewardPokemons": []
+  },
+  {
+    "description": "強化寶可夢 10 次",
+    "originalDescription": "Power up Pokémon 10 times.",
+    "category": "活動限定",
+    "rewardPokemons": []
+  },
+  {
+    "description": "捕捉 5 隻具有天氣優勢的寶可夢",
+    "originalDescription": "Catch 5 Pokémon with Weather Boost.",
+    "category": "捕捉",
+    "rewardPokemons": [
+      {
+        "no": 60,
+        "name": "蚊香蝌蚪",
+        "originalName": "Poliwag",
+        "cp": {
+          "min": 324,
+          "max": 355
+        },
+        "shinyAvailable": true,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_060_00.png"
+      },
+      {
+        "no": 37,
+        "name": "六尾",
+        "originalName": "Vulpix",
+        "cp": {
+          "min": 347,
+          "max": 378
+        },
+        "shinyAvailable": true,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_037_00.png"
+      }
+    ]
+  },
+  {
+    "description": "捕捉 10 隻寶可夢",
+    "originalDescription": "Catch 10 Pokémon.",
+    "category": "捕捉",
+    "rewardPokemons": [
+      {
+        "no": 129,
+        "name": "鯉魚王",
+        "originalName": "Magikarp",
+        "cp": {
+          "min": 99,
+          "max": 117
+        },
+        "shinyAvailable": true,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_129_00.png"
+      }
+    ]
+  },
+  {
+    "description": "捕捉 1 隻龍系寶可夢",
+    "originalDescription": "Catch a Dragon-type Pokémon.",
+    "category": "捕捉",
+    "rewardPokemons": [
+      {
+        "no": 147,
+        "name": "迷你龍",
+        "originalName": "Dratini",
+        "cp": {
+          "min": 397,
+          "max": 430
+        },
+        "shinyAvailable": true,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_147_00.png"
+      }
+    ]
+  },
+  {
+    "description": "使用 5 個莓果來捕捉寶可夢",
+    "originalDescription": "Use 5 Berries to help catch Pokémon.",
+    "category": "捕捉",
+    "rewardPokemons": [
+      {
+        "no": 188,
+        "name": "毽子花",
+        "originalName": "Skiploom",
+        "cp": {
+          "min": 385,
+          "max": 418
+        },
+        "shinyAvailable": false,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_188_00.png"
+      }
+    ]
+  },
+  {
+    "description": "捕捉 10 隻蟲系寶可夢",
+    "originalDescription": "Catch 10 Bug-type Pokémon.",
+    "category": "捕捉",
+    "rewardPokemons": [
+      {
+        "no": 193,
+        "name": "蜻蜻蜓",
+        "originalName": "Yanma",
+        "cp": {
+          "min": 588,
+          "max": 630
+        },
+        "shinyAvailable": true,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_193_00.png"
+      }
+    ]
+  },
+  {
+    "description": "捕捉 5 隻寶可夢",
+    "originalDescription": "Catch 5 Pokémon.",
+    "category": "捕捉",
+    "rewardPokemons": [
+      {
+        "no": 165,
+        "name": "芭瓢蟲",
+        "originalName": "Ledyba",
+        "cp": {
+          "min": 283,
+          "max": 312
+        },
+        "shinyAvailable": true,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_165_00.png"
+      }
+    ]
+  },
+  {
+    "description": "捕捉 10 隻具有天氣優勢的寶可夢",
+    "originalDescription": "Catch 10 Pokémon with Weather Boost.",
+    "category": "捕捉",
+    "rewardPokemons": []
+  },
+  {
+    "description": "捕捉 10 隻一般系寶可夢",
+    "originalDescription": "Catch 10 Normal-type Pokémon.",
+    "category": "捕捉",
+    "rewardPokemons": []
+  },
+  {
+    "description": "捕捉 1 隻百變怪",
+    "originalDescription": "Catch a Ditto.",
+    "category": "捕捉",
+    "rewardPokemons": []
+  },
+  {
+    "description": "捕捉 5 隻電系寶可夢",
+    "originalDescription": "Catch 5 Electric-type Pokémon.",
+    "category": "捕捉",
+    "rewardPokemons": []
+  },
+  {
+    "description": "和夥伴獲得 5 顆心心",
+    "originalDescription": "Earn 5 hearts with your buddy.",
+    "category": "夥伴 / 友情",
+    "rewardPokemons": [
+      {
+        "no": 580,
+        "name": "鴨寶寶",
+        "originalName": "Ducklett",
+        "cp": {
+          "min": 335,
+          "max": 367
+        },
+        "shinyAvailable": false,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_580_00.png"
+      }
+    ]
+  },
+  {
+    "description": "交換 1 次寶可夢",
+    "originalDescription": "Trade a Pokémon.",
+    "category": "夥伴 / 友情",
+    "rewardPokemons": [
+      {
+        "no": 277,
+        "name": "大王燕",
+        "originalName": "Swellow",
+        "cp": {
+          "min": 776,
+          "max": 823
+        },
+        "shinyAvailable": false,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_277_00.png"
+      }
+    ]
+  },
+  {
+    "description": "發送 3 個友情禮物",
+    "originalDescription": "Send 3 Gifts to friends.",
+    "category": "夥伴 / 友情",
+    "rewardPokemons": [
+      {
+        "no": 137,
+        "name": "多邊獸",
+        "originalName": "Porygon",
+        "cp": {
+          "min": 693,
+          "max": 737
+        },
+        "shinyAvailable": true,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_137_00.png"
+      }
+    ]
+  },
+  {
+    "description": "投出 3 次 Great",
+    "originalDescription": "Make 3 Great Throws.",
+    "category": "投球",
+    "rewardPokemons": [
+      {
+        "no": 92,
+        "name": "鬼斯",
+        "originalName": "Gastly",
+        "cp": {
+          "min": 487,
+          "max": 527
+        },
+        "shinyAvailable": true,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_092_00.png"
+      },
+      {
+        "no": 347,
+        "name": "太古羽蟲",
+        "originalName": "Anorith",
+        "cp": {
+          "min": 613,
+          "max": 655
+        },
+        "shinyAvailable": true,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_347_00.png"
+      },
+      {
+        "no": 345,
+        "name": "觸手百合",
+        "originalName": "Lileep",
+        "cp": {
+          "min": 515,
+          "max": 553
+        },
+        "shinyAvailable": true,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_345_00.png"
+      }
+    ]
+  },
+  {
+    "description": "投出 5 次 Nice",
+    "originalDescription": "Make 5 Nice Throws.",
+    "category": "投球",
+    "rewardPokemons": [
+      {
+        "no": 100,
+        "name": "霹靂電球",
+        "originalName": "Voltorb",
+        "cp": {
+          "min": 399,
+          "max": 432
+        },
+        "shinyAvailable": true,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_100_00.png"
+      }
+    ]
+  },
+  {
+    "description": "連續投出 3 次 Great",
+    "originalDescription": "Make 3 Great Throws in a row.",
+    "category": "投球",
+    "rewardPokemons": [
+      {
+        "no": 95,
+        "name": "大岩蛇",
+        "originalName": "Onix",
+        "cp": {
+          "min": 435,
+          "max": 472
+        },
+        "shinyAvailable": true,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_095_00.png"
+      }
+    ]
+  },
+  {
+    "description": "連續投出 3 次 Excellent",
+    "originalDescription": "Make 3 Excellent Throws in a row.",
+    "category": "投球",
+    "rewardPokemons": [
+      {
+        "no": 443,
+        "name": "圓陸鯊",
+        "originalName": "Gible",
+        "cp": {
+          "min": 441,
+          "max": 477
+        },
+        "shinyAvailable": true,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_443_00.png"
+      }
+    ]
+  },
+  {
+    "description": "連續用曲球投出 5 次 Great",
+    "originalDescription": "Make 5 Great Curveball Throws in a row.",
+    "category": "投球",
+    "rewardPokemons": [
+      {
+        "no": 327,
+        "name": "晃晃斑",
+        "originalName": "Spinda",
+        "cp": {
+          "min": 486,
+          "max": 523
+        },
+        "shinyAvailable": true,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_327_00.png"
+      }
+    ]
+  },
+  {
+    "description": "連續用曲球投出 2 次 Nice",
+    "originalDescription": "Make 2 Nice Curveball Throws in a row.",
+    "category": "投球",
+    "rewardPokemons": []
+  },
+  {
+    "description": "連續投出 5 次曲球",
+    "originalDescription": "Make 5 Curveball Throws in a row.",
+    "category": "投球",
+    "rewardPokemons": []
+  },
+  {
+    "description": "連續投出 3 次 Nice",
+    "originalDescription": "Make 3 Nice Throws in a row.",
+    "category": "投球",
+    "rewardPokemons": []
+  },
+  {
+    "description": "投出 1 次 Excellent",
+    "originalDescription": "Make an Excellent Throw.",
+    "category": "投球",
+    "rewardPokemons": []
+  },
+  {
+    "description": "用曲球投出 3 次 Great",
+    "originalDescription": "Make 3 Great Curveball Throws.",
+    "category": "投球",
+    "rewardPokemons": []
+  },
+  {
+    "description": "連續用曲球投出 3 次 Great",
+    "originalDescription": "Make 3 Great Curveball Throws in a row.",
+    "category": "投球",
+    "rewardPokemons": []
+  },
+  {
+    "description": "在等級三以上的團體戰中獲勝 1 次",
+    "originalDescription": "Win a level 3 or higher raid.",
+    "category": "對戰",
+    "rewardPokemons": [
+      {
+        "no": 138,
+        "name": "菊石獸",
+        "originalName": "Omanyte",
+        "cp": {
+          "min": 620,
+          "max": 662
+        },
+        "shinyAvailable": true,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_138_00.png"
+      },
+      {
+        "no": 140,
+        "name": "化石盔",
+        "originalName": "Kabuto",
+        "cp": {
+          "min": 548,
+          "max": 587
+        },
+        "shinyAvailable": true,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_140_00.png"
+      }
+    ]
+  },
+  {
+    "description": "團體戰勝利 5 次",
+    "originalDescription": "Win 5 raids.",
+    "category": "對戰",
+    "rewardPokemons": [
+      {
+        "no": 142,
+        "name": "化石翼龍",
+        "originalName": "Aerodactyl",
+        "cp": {
+          "min": 1136,
+          "max": 1193
+        },
+        "shinyAvailable": true,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_142_00.png"
+      }
+    ]
+  },
+  {
+    "description": "打敗 2 次火箭隊手下",
+    "originalDescription": "Defeat 2 Team GO Rocket Grunts.",
+    "category": "對戰",
+    "rewardPokemons": [
+      {
+        "no": 274,
+        "name": "長鼻葉",
+        "originalName": "Nuzleaf",
+        "cp": {
+          "min": 487,
+          "max": 526
+        },
+        "shinyAvailable": false,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_274_00.png"
+      }
+    ]
+  },
+  {
+    "description": "團體戰勝利 1 次",
+    "originalDescription": "Win a raid.",
+    "category": "對戰",
+    "rewardPokemons": [
+      {
+        "no": 246,
+        "name": "幼基拉斯",
+        "originalName": "Larvitar",
+        "cp": {
+          "min": 411,
+          "max": 445
+        },
+        "shinyAvailable": true,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_246_00.png"
+      }
+    ]
+  },
+  {
+    "description": "在 GO 對戰聯盟進行對戰",
+    "originalDescription": "Battle in GO Battle League.",
+    "category": "對戰",
+    "rewardPokemons": [
+      {
+        "no": 220,
+        "name": "小山豬",
+        "originalName": "Swinub",
+        "cp": {
+          "min": 288,
+          "max": 317
+        },
+        "shinyAvailable": true,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_220_00.png"
+      }
+    ]
+  },
+  {
+    "description": "AR Mapping",
+    "originalDescription": "AR Mapping",
+    "category": "AR Mapping",
+    "rewardPokemons": [
+      {
+        "no": 147,
+        "name": "迷你龍",
+        "originalName": "Dratini",
+        "cp": {
+          "min": 397,
+          "max": 430
+        },
+        "shinyAvailable": true,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_147_00.png"
+      },
+      {
+        "no": 227,
+        "name": "盔甲鳥",
+        "originalName": "Skarmory",
+        "cp": {
+          "min": 854,
+          "max": 903
+        },
+        "shinyAvailable": true,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_227_00.png"
+      }
+    ]
+  },
+  {
+    "description": "AR Mapping",
+    "originalDescription": "AR Mapping",
+    "category": "AR Mapping",
+    "rewardPokemons": []
+  },
+  {
+    "description": "AR Mapping",
+    "originalDescription": "AR Mapping",
+    "category": "AR Mapping",
+    "rewardPokemons": []
+  },
+  {
+    "description": "AR Mapping",
+    "originalDescription": "AR Mapping",
+    "category": "AR Mapping",
+    "rewardPokemons": []
+  },
+  {
+    "description": "AR Mapping",
+    "originalDescription": "AR Mapping",
+    "category": "AR Mapping",
+    "rewardPokemons": []
+  },
+  {
+    "description": "AR Mapping",
+    "originalDescription": "AR Mapping",
+    "category": "AR Mapping",
+    "rewardPokemons": []
+  },
+  {
+    "description": "AR Mapping",
+    "originalDescription": "AR Mapping",
+    "category": "AR Mapping",
+    "rewardPokemons": []
+  },
+  {
+    "description": "Sponsored: Send 3 Gifts to friends.",
+    "originalDescription": "Sponsored: Send 3 Gifts to friends.",
+    "category": "贊助據點",
+    "rewardPokemons": []
+  },
+  {
+    "description": "Sponsored: Catch 8 Pokémon.",
+    "originalDescription": "Sponsored: Catch 8 Pokémon.",
+    "category": "贊助據點",
+    "rewardPokemons": []
+  },
+  {
+    "description": "強化寶可夢 5 次",
+    "originalDescription": "Power up Pokémon 5 times.",
+    "category": "其他類型",
+    "rewardPokemons": [
+      {
+        "no": 1,
+        "name": "妙蛙種子",
+        "originalName": "Bulbasaur",
+        "cp": {
+          "min": 442,
+          "max": 477
+        },
+        "shinyAvailable": true,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_001_00.png"
+      },
+      {
+        "no": 4,
+        "name": "小火龍",
+        "originalName": "Charmander",
+        "cp": {
+          "min": 387,
+          "max": 420
+        },
+        "shinyAvailable": true,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_004_00.png"
+      },
+      {
+        "no": 7,
+        "name": "傑尼龜",
+        "originalName": "Squirtle",
+        "cp": {
+          "min": 372,
+          "max": 405
+        },
+        "shinyAvailable": true,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_007_00.png"
+      }
+    ]
+  },
+  {
+    "description": "進化 1 隻寶可夢",
+    "originalDescription": "Evolve a Pokémon.",
+    "category": "其他類型",
+    "rewardPokemons": [
+      {
+        "no": 133,
+        "name": "伊布",
+        "originalName": "Eevee",
+        "cp": {
+          "min": 424,
+          "max": 459
+        },
+        "shinyAvailable": true,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_133_00.png"
+      },
+      {
+        "no": 265,
+        "name": "刺尾蟲",
+        "originalName": "Wurmple",
+        "cp": {
+          "min": 222,
+          "max": 247
+        },
+        "shinyAvailable": true,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_265_00.png"
+      }
+    ]
+  },
+  {
+    "description": "為電系寶可夢拍攝 1 張照片",
+    "originalDescription": "Take a snapshot of an Electric-type Pokémon.",
+    "category": "其他類型",
+    "rewardPokemons": [
+      {
+        "no": 309,
+        "name": "落雷獸",
+        "originalName": "Electrike",
+        "cp": {
+          "min": 380,
+          "max": 413
+        },
+        "shinyAvailable": true,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_309_00.png"
+      }
+    ]
+  },
+  {
+    "description": "使用 1 個薰香",
+    "originalDescription": "Use an Incense.",
+    "category": "其他類型",
+    "rewardPokemons": [
+      {
+        "no": 88,
+        "name": "臭泥",
+        "originalName": "Grimer",
+        "cp": {
+          "min": 548,
+          "max": 589
+        },
+        "shinyAvailable": true,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_088_61.png"
+      }
+    ]
+  },
+  {
+    "description": "旋轉 10 個寶可補給站或道館",
+    "originalDescription": "Spin 10 PokéStops or Gyms.",
+    "category": "其他類型",
+    "rewardPokemons": []
+  },
+  {
+    "description": "強化寶可夢 5 次",
+    "originalDescription": "Power up Pokémon 5 times.",
+    "category": "其他類型",
+    "rewardPokemons": []
+  },
+  {
+    "description": "強化寶可夢 10 次",
+    "originalDescription": "Power up Pokémon 10 times.",
+    "category": "其他類型",
+    "rewardPokemons": []
+  }
+]

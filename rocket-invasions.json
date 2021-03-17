@@ -1,0 +1,2248 @@
+[
+  {
+    "quote": "你以為一般屬性很弱嗎？",
+    "orignialQuote": "Normal does not mean weak.",
+    "category": "一般",
+    "characterImageUrl": "https://assets.thesilphroad.com/img/rocket/c_male.png",
+    "isSpecial": false,
+    "lineupPokemons": [
+      {
+        "slotNo": 1,
+        "no": 216,
+        "name": "熊寶寶",
+        "originalName": "Teddiursa",
+        "types": [
+          "一般"
+        ],
+        "catchable": true,
+        "shinyAvailable": false,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_216_00.png"
+      },
+      {
+        "slotNo": 2,
+        "no": 20,
+        "name": "拉達",
+        "originalName": "Raticate",
+        "types": [
+          "一般"
+        ],
+        "catchable": false,
+        "shinyAvailable": false,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_020_00.png"
+      },
+      {
+        "slotNo": 2,
+        "no": 233,
+        "name": "多邊獸Ⅱ",
+        "originalName": "Porygon2",
+        "types": [
+          "一般"
+        ],
+        "catchable": false,
+        "shinyAvailable": false,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_233_00.png"
+      },
+      {
+        "slotNo": 3,
+        "no": 474,
+        "name": "多邊獸Ｚ",
+        "originalName": "Porygon-Z",
+        "types": [
+          "一般"
+        ],
+        "catchable": false,
+        "shinyAvailable": false,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_474_00.png"
+      },
+      {
+        "slotNo": 3,
+        "no": 143,
+        "name": "卡比獸",
+        "originalName": "Snorlax",
+        "types": [
+          "一般"
+        ],
+        "catchable": false,
+        "shinyAvailable": false,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_143_00.png"
+      }
+    ]
+  },
+  {
+    "quote": "你知道寶可夢吐出的火焰有多熱嗎？",
+    "orignialQuote": "Do you know how hot Pokémon fire breath can get?",
+    "category": "火",
+    "characterImageUrl": "https://assets.thesilphroad.com/img/rocket/c_female.png",
+    "isSpecial": false,
+    "lineupPokemons": [
+      {
+        "slotNo": 1,
+        "no": 37,
+        "name": "六尾",
+        "originalName": "Vulpix",
+        "types": [
+          "火"
+        ],
+        "catchable": true,
+        "shinyAvailable": false,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_037_00.png"
+      },
+      {
+        "slotNo": 1,
+        "no": 228,
+        "name": "戴魯比",
+        "originalName": "Houndour",
+        "types": [
+          "惡",
+          "火"
+        ],
+        "catchable": true,
+        "shinyAvailable": false,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_228_00.png"
+      },
+      {
+        "slotNo": 2,
+        "no": 38,
+        "name": "九尾",
+        "originalName": "Ninetales",
+        "types": [
+          "火"
+        ],
+        "catchable": true,
+        "shinyAvailable": false,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_038_00.png"
+      },
+      {
+        "slotNo": 2,
+        "no": 126,
+        "name": "鴨嘴火獸",
+        "originalName": "Magmar",
+        "types": [
+          "火"
+        ],
+        "catchable": true,
+        "shinyAvailable": false,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_126_00.png"
+      },
+      {
+        "slotNo": 2,
+        "no": 229,
+        "name": "黑魯加",
+        "originalName": "Houndoom",
+        "types": [
+          "惡",
+          "火"
+        ],
+        "catchable": true,
+        "shinyAvailable": false,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_229_00.png"
+      },
+      {
+        "slotNo": 3,
+        "no": 38,
+        "name": "九尾",
+        "originalName": "Ninetales",
+        "types": [
+          "火"
+        ],
+        "catchable": false,
+        "shinyAvailable": false,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_038_00.png"
+      },
+      {
+        "slotNo": 3,
+        "no": 5,
+        "name": "火恐龍",
+        "originalName": "Charmeleon",
+        "types": [
+          "火"
+        ],
+        "catchable": false,
+        "shinyAvailable": false,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_005_00.png"
+      },
+      {
+        "slotNo": 3,
+        "no": 59,
+        "name": "風速狗",
+        "originalName": "Arcanine",
+        "types": [
+          "火"
+        ],
+        "catchable": false,
+        "shinyAvailable": false,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_059_00.png"
+      }
+    ]
+  },
+  {
+    "quote": "這片海域很危險！",
+    "orignialQuote": "These waters are treacherous!",
+    "category": "水",
+    "characterImageUrl": "https://assets.thesilphroad.com/img/rocket/c_female.png",
+    "isSpecial": false,
+    "lineupPokemons": [
+      {
+        "slotNo": 1,
+        "no": 60,
+        "name": "蚊香蝌蚪",
+        "originalName": "Poliwag",
+        "types": [
+          "水"
+        ],
+        "catchable": true,
+        "shinyAvailable": false,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_060_00.png"
+      },
+      {
+        "slotNo": 1,
+        "no": 90,
+        "name": "大舌貝",
+        "originalName": "Shellder",
+        "types": [
+          "水"
+        ],
+        "catchable": true,
+        "shinyAvailable": false,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_090_00.png"
+      },
+      {
+        "slotNo": 1,
+        "no": 194,
+        "name": "烏波",
+        "originalName": "Wooper",
+        "types": [
+          "水",
+          "地面"
+        ],
+        "catchable": true,
+        "shinyAvailable": false,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_194_00.png"
+      },
+      {
+        "slotNo": 2,
+        "no": 55,
+        "name": "哥達鴨",
+        "originalName": "Golduck",
+        "types": [
+          "水"
+        ],
+        "catchable": false,
+        "shinyAvailable": false,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_055_00.png"
+      },
+      {
+        "slotNo": 2,
+        "no": 61,
+        "name": "蚊香君",
+        "originalName": "Poliwhirl",
+        "types": [
+          "水"
+        ],
+        "catchable": false,
+        "shinyAvailable": false,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_061_00.png"
+      },
+      {
+        "slotNo": 2,
+        "no": 259,
+        "name": "沼躍魚",
+        "originalName": "Marshtomp",
+        "types": [
+          "水",
+          "地面"
+        ],
+        "catchable": false,
+        "shinyAvailable": false,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_259_00.png"
+      },
+      {
+        "slotNo": 3,
+        "no": 186,
+        "name": "蚊香蛙皇",
+        "originalName": "Politoed",
+        "types": [
+          "水"
+        ],
+        "catchable": false,
+        "shinyAvailable": false,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_186_00.png"
+      },
+      {
+        "slotNo": 3,
+        "no": 62,
+        "name": "蚊香泳士",
+        "originalName": "Poliwrath",
+        "types": [
+          "水",
+          "格鬥"
+        ],
+        "catchable": false,
+        "shinyAvailable": false,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_062_00.png"
+      }
+    ]
+  },
+  {
+    "quote": "我們可是野火燒不盡，春風吹又生！",
+    "orignialQuote": "Don't tangle with us!",
+    "category": "草",
+    "characterImageUrl": "https://assets.thesilphroad.com/img/rocket/c_male.png",
+    "isSpecial": false,
+    "lineupPokemons": [
+      {
+        "slotNo": 1,
+        "no": 345,
+        "name": "觸手百合",
+        "originalName": "Lileep",
+        "types": [
+          "岩石",
+          "草"
+        ],
+        "catchable": true,
+        "shinyAvailable": false,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_345_00.png"
+      },
+      {
+        "slotNo": 1,
+        "no": 43,
+        "name": "走路草",
+        "originalName": "Oddish",
+        "types": [
+          "草",
+          "毒"
+        ],
+        "catchable": true,
+        "shinyAvailable": false,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_043_00.png"
+      },
+      {
+        "slotNo": 1,
+        "no": 187,
+        "name": "毽子草",
+        "originalName": "Hoppip",
+        "types": [
+          "草",
+          "飛行"
+        ],
+        "catchable": true,
+        "shinyAvailable": false,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_187_00.png"
+      },
+      {
+        "slotNo": 2,
+        "no": 70,
+        "name": "口呆花",
+        "originalName": "Weepinbell",
+        "types": [
+          "草",
+          "毒"
+        ],
+        "catchable": true,
+        "shinyAvailable": false,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_070_00.png"
+      },
+      {
+        "slotNo": 2,
+        "no": 2,
+        "name": "妙蛙草",
+        "originalName": "Ivysaur",
+        "types": [
+          "草",
+          "毒"
+        ],
+        "catchable": true,
+        "shinyAvailable": false,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_002_00.png"
+      },
+      {
+        "slotNo": 2,
+        "no": 44,
+        "name": "臭臭花",
+        "originalName": "Gloom",
+        "types": [
+          "草",
+          "毒"
+        ],
+        "catchable": true,
+        "shinyAvailable": false,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_044_00.png"
+      },
+      {
+        "slotNo": 3,
+        "no": 71,
+        "name": "大食花",
+        "originalName": "Victreebel",
+        "types": [
+          "草",
+          "毒"
+        ],
+        "catchable": false,
+        "shinyAvailable": false,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_071_00.png"
+      },
+      {
+        "slotNo": 3,
+        "no": 275,
+        "name": "狡猾天狗",
+        "originalName": "Shiftry",
+        "types": [
+          "草",
+          "惡"
+        ],
+        "catchable": false,
+        "shinyAvailable": false,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_275_00.png"
+      },
+      {
+        "slotNo": 3,
+        "no": 45,
+        "name": "霸王花",
+        "originalName": "Vileplume",
+        "types": [
+          "草",
+          "毒"
+        ],
+        "catchable": false,
+        "shinyAvailable": false,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_045_00.png"
+      }
+    ]
+  },
+  {
+    "quote": "你就等著被電吧！",
+    "orignialQuote": "Get ready to be shocked!",
+    "category": "電",
+    "characterImageUrl": "https://assets.thesilphroad.com/img/rocket/c_female.png",
+    "isSpecial": false,
+    "lineupPokemons": [
+      {
+        "slotNo": 1,
+        "no": 81,
+        "name": "小磁怪",
+        "originalName": "Magnemite",
+        "types": [
+          "電",
+          "鋼"
+        ],
+        "catchable": true,
+        "shinyAvailable": false,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_081_00.png"
+      },
+      {
+        "slotNo": 1,
+        "no": 125,
+        "name": "電擊獸",
+        "originalName": "Electabuzz",
+        "types": [
+          "電"
+        ],
+        "catchable": true,
+        "shinyAvailable": false,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_125_00.png"
+      },
+      {
+        "slotNo": 1,
+        "no": 179,
+        "name": "咩利羊",
+        "originalName": "Mareep",
+        "types": [
+          "電"
+        ],
+        "catchable": true,
+        "shinyAvailable": false,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_179_00.png"
+      },
+      {
+        "slotNo": 2,
+        "no": 82,
+        "name": "三合一磁怪",
+        "originalName": "Magneton",
+        "types": [
+          "電",
+          "鋼"
+        ],
+        "catchable": false,
+        "shinyAvailable": false,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_082_00.png"
+      },
+      {
+        "slotNo": 2,
+        "no": 180,
+        "name": "茸茸羊",
+        "originalName": "Flaaffy",
+        "types": [
+          "電"
+        ],
+        "catchable": false,
+        "shinyAvailable": false,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_180_00.png"
+      },
+      {
+        "slotNo": 2,
+        "no": 125,
+        "name": "電擊獸",
+        "originalName": "Electabuzz",
+        "types": [
+          "電"
+        ],
+        "catchable": false,
+        "shinyAvailable": false,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_125_00.png"
+      },
+      {
+        "slotNo": 3,
+        "no": 125,
+        "name": "電擊獸",
+        "originalName": "Electabuzz",
+        "types": [
+          "電"
+        ],
+        "catchable": false,
+        "shinyAvailable": false,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_125_00.png"
+      },
+      {
+        "slotNo": 3,
+        "no": 181,
+        "name": "電龍",
+        "originalName": "Ampharos",
+        "types": [
+          "電"
+        ],
+        "catchable": false,
+        "shinyAvailable": false,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_181_00.png"
+      }
+    ]
+  },
+  {
+    "quote": "這飽滿的肌肉可不是擺著好看的！",
+    "orignialQuote": "This buff physique isn't just for show!",
+    "category": "格鬥",
+    "characterImageUrl": "https://assets.thesilphroad.com/img/rocket/c_female.png",
+    "isSpecial": false,
+    "lineupPokemons": [
+      {
+        "slotNo": 1,
+        "no": 66,
+        "name": "腕力",
+        "originalName": "Machop",
+        "types": [
+          "格鬥"
+        ],
+        "catchable": true,
+        "shinyAvailable": false,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_066_00.png"
+      },
+      {
+        "slotNo": 1,
+        "no": 107,
+        "name": "快拳郎",
+        "originalName": "Hitmonchan",
+        "types": [
+          "格鬥"
+        ],
+        "catchable": true,
+        "shinyAvailable": false,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_107_00.png"
+      },
+      {
+        "slotNo": 2,
+        "no": 67,
+        "name": "豪力",
+        "originalName": "Machoke",
+        "types": [
+          "格鬥"
+        ],
+        "catchable": false,
+        "shinyAvailable": false,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_067_00.png"
+      },
+      {
+        "slotNo": 3,
+        "no": 106,
+        "name": "飛腿郎",
+        "originalName": "Hitmonlee",
+        "types": [
+          "格鬥"
+        ],
+        "catchable": false,
+        "shinyAvailable": false,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_106_00.png"
+      },
+      {
+        "slotNo": 3,
+        "no": 67,
+        "name": "豪力",
+        "originalName": "Machoke",
+        "types": [
+          "格鬥"
+        ],
+        "catchable": false,
+        "shinyAvailable": false,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_067_00.png"
+      }
+    ]
+  },
+  {
+    "quote": "好好嚐嚐著猛毒吧！",
+    "orignialQuote": "Coiled and ready to strike!",
+    "category": "毒",
+    "characterImageUrl": "https://assets.thesilphroad.com/img/rocket/c_female.png",
+    "isSpecial": false,
+    "lineupPokemons": [
+      {
+        "slotNo": 1,
+        "no": 29,
+        "name": "尼多蘭",
+        "originalName": "Nidoran♀",
+        "types": [
+          "毒"
+        ],
+        "catchable": true,
+        "shinyAvailable": false,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_029_00.png"
+      },
+      {
+        "slotNo": 1,
+        "no": 41,
+        "name": "超音蝠",
+        "originalName": "Zubat",
+        "types": [
+          "毒",
+          "飛行"
+        ],
+        "catchable": true,
+        "shinyAvailable": false,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_041_00.png"
+      },
+      {
+        "slotNo": 1,
+        "no": 32,
+        "name": "尼多朗",
+        "originalName": "Nidoran♂",
+        "types": [
+          "毒"
+        ],
+        "catchable": true,
+        "shinyAvailable": false,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_032_00.png"
+      },
+      {
+        "slotNo": 2,
+        "no": 88,
+        "name": "臭泥",
+        "originalName": "Grimer",
+        "types": [
+          "毒"
+        ],
+        "catchable": false,
+        "shinyAvailable": false,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_088_00.png"
+      },
+      {
+        "slotNo": 2,
+        "no": 89,
+        "name": "臭臭泥",
+        "originalName": "Muk",
+        "types": [
+          "毒"
+        ],
+        "catchable": false,
+        "shinyAvailable": false,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_089_00.png"
+      },
+      {
+        "slotNo": 3,
+        "no": 30,
+        "name": "尼多娜",
+        "originalName": "Nidorina",
+        "types": [
+          "毒"
+        ],
+        "catchable": false,
+        "shinyAvailable": false,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_030_00.png"
+      },
+      {
+        "slotNo": 3,
+        "no": 110,
+        "name": "雙彈瓦斯",
+        "originalName": "Weezing",
+        "types": [
+          "毒"
+        ],
+        "catchable": false,
+        "shinyAvailable": false,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_110_00.png"
+      },
+      {
+        "slotNo": 3,
+        "no": 89,
+        "name": "臭臭泥",
+        "originalName": "Muk",
+        "types": [
+          "毒"
+        ],
+        "catchable": false,
+        "shinyAvailable": false,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_089_00.png"
+      }
+    ]
+  },
+  {
+    "quote": "我會把你重重摔到地面上！",
+    "orignialQuote": "You'll be defeated into the ground!",
+    "category": "地面",
+    "characterImageUrl": "https://assets.thesilphroad.com/img/rocket/c_male.png",
+    "isSpecial": false,
+    "lineupPokemons": [
+      {
+        "slotNo": 1,
+        "no": 220,
+        "name": "小山豬",
+        "originalName": "Swinub",
+        "types": [
+          "冰",
+          "地面"
+        ],
+        "catchable": true,
+        "shinyAvailable": false,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_220_00.png"
+      },
+      {
+        "slotNo": 1,
+        "no": 50,
+        "name": "地鼠",
+        "originalName": "Diglett",
+        "types": [
+          "地面"
+        ],
+        "catchable": true,
+        "shinyAvailable": false,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_050_00.png"
+      },
+      {
+        "slotNo": 2,
+        "no": 105,
+        "name": "嘎啦嘎啦",
+        "originalName": "Marowak",
+        "types": [
+          "地面"
+        ],
+        "catchable": false,
+        "shinyAvailable": false,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_105_00.png"
+      },
+      {
+        "slotNo": 2,
+        "no": 247,
+        "name": "沙基拉斯",
+        "originalName": "Pupitar",
+        "types": [
+          "岩石",
+          "地面"
+        ],
+        "catchable": false,
+        "shinyAvailable": false,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_247_00.png"
+      },
+      {
+        "slotNo": 2,
+        "no": 329,
+        "name": "超音波幼蟲",
+        "originalName": "Vibrava",
+        "types": [
+          "地面",
+          "龍"
+        ],
+        "catchable": false,
+        "shinyAvailable": false,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_329_00.png"
+      },
+      {
+        "slotNo": 3,
+        "no": 472,
+        "name": "天蠍王",
+        "originalName": "Gliscor",
+        "types": [
+          "地面",
+          "飛行"
+        ],
+        "catchable": false,
+        "shinyAvailable": false,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_472_00.png"
+      },
+      {
+        "slotNo": 3,
+        "no": 330,
+        "name": "沙漠蜻蜓",
+        "originalName": "Flygon",
+        "types": [
+          "地面",
+          "龍"
+        ],
+        "catchable": false,
+        "shinyAvailable": false,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_330_00.png"
+      }
+    ]
+  },
+  {
+    "quote": "讓你見識見識我華麗的飛行屬性寶可夢！",
+    "orignialQuote": "Battle against my Flying-type Pokémon!",
+    "category": "飛行",
+    "characterImageUrl": "https://assets.thesilphroad.com/img/rocket/c_female.png",
+    "isSpecial": false,
+    "lineupPokemons": [
+      {
+        "slotNo": 1,
+        "no": 42,
+        "name": "大嘴蝠",
+        "originalName": "Golbat",
+        "types": [
+          "毒",
+          "飛行"
+        ],
+        "catchable": true,
+        "shinyAvailable": false,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_042_00.png"
+      },
+      {
+        "slotNo": 1,
+        "no": 227,
+        "name": "盔甲鳥",
+        "originalName": "Skarmory",
+        "types": [
+          "鋼",
+          "飛行"
+        ],
+        "catchable": true,
+        "shinyAvailable": false,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_227_00.png"
+      },
+      {
+        "slotNo": 1,
+        "no": 207,
+        "name": "天蠍",
+        "originalName": "Gligar",
+        "types": [
+          "地面",
+          "飛行"
+        ],
+        "catchable": true,
+        "shinyAvailable": false,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_207_00.png"
+      },
+      {
+        "slotNo": 2,
+        "no": 169,
+        "name": "叉字蝠",
+        "originalName": "Crobat",
+        "types": [
+          "毒",
+          "飛行"
+        ],
+        "catchable": false,
+        "shinyAvailable": false,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_169_00.png"
+      },
+      {
+        "slotNo": 2,
+        "no": 123,
+        "name": "飛天螳螂",
+        "originalName": "Scyther",
+        "types": [
+          "蟲",
+          "飛行"
+        ],
+        "catchable": false,
+        "shinyAvailable": false,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_123_00.png"
+      },
+      {
+        "slotNo": 2,
+        "no": 42,
+        "name": "大嘴蝠",
+        "originalName": "Golbat",
+        "types": [
+          "毒",
+          "飛行"
+        ],
+        "catchable": false,
+        "shinyAvailable": false,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_042_00.png"
+      },
+      {
+        "slotNo": 3,
+        "no": 130,
+        "name": "暴鯉龍",
+        "originalName": "Gyarados",
+        "types": [
+          "水",
+          "飛行"
+        ],
+        "catchable": false,
+        "shinyAvailable": false,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_130_00.png"
+      },
+      {
+        "slotNo": 3,
+        "no": 149,
+        "name": "快龍",
+        "originalName": "Dragonite",
+        "types": [
+          "龍",
+          "飛行"
+        ],
+        "catchable": false,
+        "shinyAvailable": false,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_149_00.png"
+      },
+      {
+        "slotNo": 3,
+        "no": 169,
+        "name": "叉字蝠",
+        "originalName": "Crobat",
+        "types": [
+          "毒",
+          "飛行"
+        ],
+        "catchable": false,
+        "shinyAvailable": false,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_169_00.png"
+      }
+    ]
+  },
+  {
+    "quote": "使用看不見力量的超能力者是不是讓你很害怕啊？",
+    "orignialQuote": "Are you scared of psychics that use unseen power?",
+    "category": "超能力",
+    "characterImageUrl": "https://assets.thesilphroad.com/img/rocket/c_male.png",
+    "isSpecial": false,
+    "lineupPokemons": [
+      {
+        "slotNo": 1,
+        "no": 202,
+        "name": "果然翁",
+        "originalName": "Wobbuffet",
+        "types": [
+          "超能力"
+        ],
+        "catchable": true,
+        "shinyAvailable": false,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_202_00.png"
+      },
+      {
+        "slotNo": 1,
+        "no": 79,
+        "name": "呆呆獸",
+        "originalName": "Slowpoke",
+        "types": [
+          "水",
+          "超能力"
+        ],
+        "catchable": true,
+        "shinyAvailable": false,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_079_00.png"
+      },
+      {
+        "slotNo": 1,
+        "no": 102,
+        "name": "蛋蛋",
+        "originalName": "Exeggcute",
+        "types": [
+          "草",
+          "超能力"
+        ],
+        "catchable": true,
+        "shinyAvailable": false,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_102_00.png"
+      },
+      {
+        "slotNo": 2,
+        "no": 64,
+        "name": "勇基拉",
+        "originalName": "Kadabra",
+        "types": [
+          "超能力"
+        ],
+        "catchable": false,
+        "shinyAvailable": false,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_064_00.png"
+      },
+      {
+        "slotNo": 2,
+        "no": 281,
+        "name": "奇魯莉安",
+        "originalName": "Kirlia",
+        "types": [
+          "超能力",
+          "妖精"
+        ],
+        "catchable": false,
+        "shinyAvailable": false,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_281_00.png"
+      },
+      {
+        "slotNo": 2,
+        "no": 96,
+        "name": "催眠貘",
+        "originalName": "Drowzee",
+        "types": [
+          "超能力"
+        ],
+        "catchable": false,
+        "shinyAvailable": false,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_096_00.png"
+      },
+      {
+        "slotNo": 3,
+        "no": 103,
+        "name": "椰蛋樹",
+        "originalName": "Exeggutor",
+        "types": [
+          "草",
+          "超能力"
+        ],
+        "catchable": false,
+        "shinyAvailable": false,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_103_00.png"
+      },
+      {
+        "slotNo": 3,
+        "no": 97,
+        "name": "引夢貘人",
+        "originalName": "Hypno",
+        "types": [
+          "超能力"
+        ],
+        "catchable": false,
+        "shinyAvailable": false,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_097_00.png"
+      },
+      {
+        "slotNo": 3,
+        "no": 281,
+        "name": "奇魯莉安",
+        "originalName": "Kirlia",
+        "types": [
+          "超能力",
+          "妖精"
+        ],
+        "catchable": false,
+        "shinyAvailable": false,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_281_00.png"
+      }
+    ]
+  },
+  {
+    "quote": "我可愛的昆蟲寶可夢，上吧！",
+    "orignialQuote": "Go, my super bug Pokémon!",
+    "category": "蟲",
+    "characterImageUrl": "https://assets.thesilphroad.com/img/rocket/c_male.png",
+    "isSpecial": false,
+    "lineupPokemons": [
+      {
+        "slotNo": 1,
+        "no": 48,
+        "name": "毛球",
+        "originalName": "Venonat",
+        "types": [
+          "蟲",
+          "毒"
+        ],
+        "catchable": true,
+        "shinyAvailable": false,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_048_00.png"
+      },
+      {
+        "slotNo": 1,
+        "no": 347,
+        "name": "太古羽蟲",
+        "originalName": "Anorith",
+        "types": [
+          "岩石",
+          "蟲"
+        ],
+        "catchable": true,
+        "shinyAvailable": false,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_347_00.png"
+      },
+      {
+        "slotNo": 1,
+        "no": 213,
+        "name": "壺壺",
+        "originalName": "Shuckle",
+        "types": [
+          "蟲",
+          "岩石"
+        ],
+        "catchable": true,
+        "shinyAvailable": false,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_213_00.png"
+      },
+      {
+        "slotNo": 2,
+        "no": 127,
+        "name": "凱羅斯",
+        "originalName": "Pinsir",
+        "types": [
+          "蟲"
+        ],
+        "catchable": false,
+        "shinyAvailable": false,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_127_00.png"
+      },
+      {
+        "slotNo": 2,
+        "no": 49,
+        "name": "摩魯蛾",
+        "originalName": "Venomoth",
+        "types": [
+          "蟲",
+          "毒"
+        ],
+        "catchable": false,
+        "shinyAvailable": false,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_049_00.png"
+      },
+      {
+        "slotNo": 2,
+        "no": 212,
+        "name": "巨鉗螳螂",
+        "originalName": "Scizor",
+        "types": [
+          "蟲",
+          "鋼"
+        ],
+        "catchable": false,
+        "shinyAvailable": false,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_212_00.png"
+      },
+      {
+        "slotNo": 3,
+        "no": 15,
+        "name": "大針蜂",
+        "originalName": "Beedrill",
+        "types": [
+          "蟲",
+          "毒"
+        ],
+        "catchable": false,
+        "shinyAvailable": false,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_015_00.png"
+      },
+      {
+        "slotNo": 3,
+        "no": 123,
+        "name": "飛天螳螂",
+        "originalName": "Scyther",
+        "types": [
+          "蟲",
+          "飛行"
+        ],
+        "catchable": false,
+        "shinyAvailable": false,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_123_00.png"
+      },
+      {
+        "slotNo": 3,
+        "no": 212,
+        "name": "巨鉗螳螂",
+        "originalName": "Scizor",
+        "types": [
+          "蟲",
+          "鋼"
+        ],
+        "catchable": false,
+        "shinyAvailable": false,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_212_00.png"
+      }
+    ]
+  },
+  {
+    "quote": "Let's rock and roll！",
+    "orignialQuote": "Let's rock and roll!",
+    "category": "岩石",
+    "characterImageUrl": "https://assets.thesilphroad.com/img/rocket/c_male.png",
+    "isSpecial": false,
+    "lineupPokemons": [
+      {
+        "slotNo": 1,
+        "no": 304,
+        "name": "可可多拉",
+        "originalName": "Aron",
+        "types": [
+          "鋼",
+          "岩石"
+        ],
+        "catchable": true,
+        "shinyAvailable": false,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_304_00.png"
+      },
+      {
+        "slotNo": 1,
+        "no": 299,
+        "name": "朝北鼻",
+        "originalName": "Nosepass",
+        "types": [
+          "岩石"
+        ],
+        "catchable": true,
+        "shinyAvailable": false,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_299_00.png"
+      },
+      {
+        "slotNo": 2,
+        "no": 305,
+        "name": "可多拉",
+        "originalName": "Lairon",
+        "types": [
+          "鋼",
+          "岩石"
+        ],
+        "catchable": true,
+        "shinyAvailable": false,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_305_00.png"
+      },
+      {
+        "slotNo": 2,
+        "no": 246,
+        "name": "幼基拉斯",
+        "originalName": "Larvitar",
+        "types": [
+          "岩石",
+          "地面"
+        ],
+        "catchable": true,
+        "shinyAvailable": false,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_246_00.png"
+      },
+      {
+        "slotNo": 2,
+        "no": 247,
+        "name": "沙基拉斯",
+        "originalName": "Pupitar",
+        "types": [
+          "岩石",
+          "地面"
+        ],
+        "catchable": true,
+        "shinyAvailable": false,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_247_00.png"
+      },
+      {
+        "slotNo": 3,
+        "no": 247,
+        "name": "沙基拉斯",
+        "originalName": "Pupitar",
+        "types": [
+          "岩石",
+          "地面"
+        ],
+        "catchable": false,
+        "shinyAvailable": false,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_247_00.png"
+      },
+      {
+        "slotNo": 3,
+        "no": 248,
+        "name": "班基拉斯",
+        "originalName": "Tyranitar",
+        "types": [
+          "岩石",
+          "惡"
+        ],
+        "catchable": false,
+        "shinyAvailable": false,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_248_00.png"
+      }
+    ]
+  },
+  {
+    "quote": "科、科科、科科科！",
+    "orignialQuote": "Ke...ke...ke...ke...ke...ke!",
+    "category": "幽靈",
+    "characterImageUrl": "https://assets.thesilphroad.com/img/rocket/c_male.png",
+    "isSpecial": false,
+    "lineupPokemons": [
+      {
+        "slotNo": 1,
+        "no": 353,
+        "name": "怨影娃娃",
+        "originalName": "Shuppet",
+        "types": [
+          "幽靈"
+        ],
+        "catchable": true,
+        "shinyAvailable": false,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_353_00.png"
+      },
+      {
+        "slotNo": 1,
+        "no": 200,
+        "name": "夢妖",
+        "originalName": "Misdreavus",
+        "types": [
+          "幽靈"
+        ],
+        "catchable": true,
+        "shinyAvailable": false,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_200_00.png"
+      },
+      {
+        "slotNo": 1,
+        "no": 355,
+        "name": "夜巡靈",
+        "originalName": "Duskull",
+        "types": [
+          "幽靈"
+        ],
+        "catchable": true,
+        "shinyAvailable": false,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_355_00.png"
+      },
+      {
+        "slotNo": 2,
+        "no": 354,
+        "name": "詛咒娃娃",
+        "originalName": "Banette",
+        "types": [
+          "幽靈"
+        ],
+        "catchable": false,
+        "shinyAvailable": false,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_354_00.png"
+      },
+      {
+        "slotNo": 2,
+        "no": 356,
+        "name": "彷徨夜靈",
+        "originalName": "Dusclops",
+        "types": [
+          "幽靈"
+        ],
+        "catchable": false,
+        "shinyAvailable": false,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_356_00.png"
+      },
+      {
+        "slotNo": 3,
+        "no": 354,
+        "name": "詛咒娃娃",
+        "originalName": "Banette",
+        "types": [
+          "幽靈"
+        ],
+        "catchable": false,
+        "shinyAvailable": false,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_354_00.png"
+      },
+      {
+        "slotNo": 3,
+        "no": 477,
+        "name": "黑夜魔靈",
+        "originalName": "Dusknoir",
+        "types": [
+          "幽靈"
+        ],
+        "catchable": false,
+        "shinyAvailable": false,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_477_00.png"
+      },
+      {
+        "slotNo": 3,
+        "no": 302,
+        "name": "勾魂眼",
+        "originalName": "Sableye",
+        "types": [
+          "惡",
+          "幽靈"
+        ],
+        "catchable": false,
+        "shinyAvailable": false,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_302_00.png"
+      }
+    ]
+  },
+  {
+    "quote": "我要把你們全部凍僵！",
+    "orignialQuote": "You're gonna be frozen in your tracks.",
+    "category": "冰",
+    "characterImageUrl": "https://assets.thesilphroad.com/img/rocket/c_female.png",
+    "isSpecial": false,
+    "lineupPokemons": [
+      {
+        "slotNo": 1,
+        "no": 363,
+        "name": "海豹球",
+        "originalName": "Spheal",
+        "types": [
+          "冰",
+          "水"
+        ],
+        "catchable": true,
+        "shinyAvailable": false,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_363_00.png"
+      },
+      {
+        "slotNo": 1,
+        "no": 459,
+        "name": "雪笠怪",
+        "originalName": "Snover",
+        "types": [
+          "草",
+          "冰"
+        ],
+        "catchable": true,
+        "shinyAvailable": false,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_459_00.png"
+      },
+      {
+        "slotNo": 2,
+        "no": 91,
+        "name": "刺甲貝",
+        "originalName": "Cloyster",
+        "types": [
+          "水",
+          "冰"
+        ],
+        "catchable": true,
+        "shinyAvailable": false,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_091_00.png"
+      },
+      {
+        "slotNo": 2,
+        "no": 364,
+        "name": "海魔獅",
+        "originalName": "Sealeo",
+        "types": [
+          "冰",
+          "水"
+        ],
+        "catchable": true,
+        "shinyAvailable": false,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_364_00.png"
+      },
+      {
+        "slotNo": 2,
+        "no": 220,
+        "name": "小山豬",
+        "originalName": "Swinub",
+        "types": [
+          "冰",
+          "地面"
+        ],
+        "catchable": true,
+        "shinyAvailable": false,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_220_00.png"
+      },
+      {
+        "slotNo": 3,
+        "no": 131,
+        "name": "拉普拉斯",
+        "originalName": "Lapras",
+        "types": [
+          "水",
+          "冰"
+        ],
+        "catchable": false,
+        "shinyAvailable": false,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_131_00.png"
+      },
+      {
+        "slotNo": 3,
+        "no": 91,
+        "name": "刺甲貝",
+        "originalName": "Cloyster",
+        "types": [
+          "水",
+          "冰"
+        ],
+        "catchable": false,
+        "shinyAvailable": false,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_091_00.png"
+      },
+      {
+        "slotNo": 3,
+        "no": 460,
+        "name": "暴雪王",
+        "originalName": "Abomasnow",
+        "types": [
+          "草",
+          "冰"
+        ],
+        "catchable": false,
+        "shinyAvailable": false,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_460_00.png"
+      }
+    ]
+  },
+  {
+    "quote": "吼喔喔喔喔！怎樣，嚇到了吧！",
+    "orignialQuote": "ROAR! ...How'd that sound?",
+    "category": "龍",
+    "characterImageUrl": "https://assets.thesilphroad.com/img/rocket/c_female.png",
+    "isSpecial": false,
+    "lineupPokemons": [
+      {
+        "slotNo": 1,
+        "no": 147,
+        "name": "迷你龍",
+        "originalName": "Dratini",
+        "types": [
+          "龍"
+        ],
+        "catchable": true,
+        "shinyAvailable": false,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_147_00.png"
+      },
+      {
+        "slotNo": 2,
+        "no": 148,
+        "name": "哈克龍",
+        "originalName": "Dragonair",
+        "types": [
+          "龍"
+        ],
+        "catchable": false,
+        "shinyAvailable": false,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_148_00.png"
+      },
+      {
+        "slotNo": 2,
+        "no": 330,
+        "name": "沙漠蜻蜓",
+        "originalName": "Flygon",
+        "types": [
+          "地面",
+          "龍"
+        ],
+        "catchable": false,
+        "shinyAvailable": false,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_330_00.png"
+      },
+      {
+        "slotNo": 3,
+        "no": 148,
+        "name": "哈克龍",
+        "originalName": "Dragonair",
+        "types": [
+          "龍"
+        ],
+        "catchable": false,
+        "shinyAvailable": false,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_148_00.png"
+      },
+      {
+        "slotNo": 3,
+        "no": 149,
+        "name": "快龍",
+        "originalName": "Dragonite",
+        "types": [
+          "龍",
+          "飛行"
+        ],
+        "catchable": false,
+        "shinyAvailable": false,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_149_00.png"
+      },
+      {
+        "slotNo": 3,
+        "no": 130,
+        "name": "暴鯉龍",
+        "originalName": "Gyarados",
+        "types": [
+          "水",
+          "飛行"
+        ],
+        "catchable": false,
+        "shinyAvailable": false,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_130_00.png"
+      }
+    ]
+  },
+  {
+    "quote": "有光的地方，就會有影子！",
+    "orignialQuote": "Wherever there is light, there is also shadow.",
+    "category": "惡",
+    "characterImageUrl": "https://assets.thesilphroad.com/img/rocket/c_female.png",
+    "isSpecial": false,
+    "lineupPokemons": [
+      {
+        "slotNo": 1,
+        "no": 302,
+        "name": "勾魂眼",
+        "originalName": "Sableye",
+        "types": [
+          "惡",
+          "幽靈"
+        ],
+        "catchable": true,
+        "shinyAvailable": false,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_302_00.png"
+      },
+      {
+        "slotNo": 1,
+        "no": 434,
+        "name": "臭鼬噗",
+        "originalName": "Stunky",
+        "types": [
+          "毒",
+          "惡"
+        ],
+        "catchable": true,
+        "shinyAvailable": false,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_434_00.png"
+      },
+      {
+        "slotNo": 2,
+        "no": 274,
+        "name": "長鼻葉",
+        "originalName": "Nuzleaf",
+        "types": [
+          "草",
+          "惡"
+        ],
+        "catchable": false,
+        "shinyAvailable": false,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_274_00.png"
+      },
+      {
+        "slotNo": 2,
+        "no": 435,
+        "name": "坦克臭鼬",
+        "originalName": "Skuntank",
+        "types": [
+          "毒",
+          "惡"
+        ],
+        "catchable": false,
+        "shinyAvailable": false,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_435_00.png"
+      },
+      {
+        "slotNo": 3,
+        "no": 332,
+        "name": "夢歌仙人掌",
+        "originalName": "Cacturne",
+        "types": [
+          "草",
+          "惡"
+        ],
+        "catchable": false,
+        "shinyAvailable": false,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_332_00.png"
+      },
+      {
+        "slotNo": 3,
+        "no": 275,
+        "name": "狡猾天狗",
+        "originalName": "Shiftry",
+        "types": [
+          "草",
+          "惡"
+        ],
+        "catchable": false,
+        "shinyAvailable": false,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_275_00.png"
+      }
+    ]
+  },
+  {
+    "quote": "你怎麼可能打得過我呢。\n你就等著打輸吧！\n只有贏家才能贏！",
+    "orignialQuote": "Don't bother - I've already won!\nGet ready to be defeated!\nWinning is for winners!",
+    "category": "無法判斷",
+    "characterImageUrl": "https://assets.thesilphroad.com/img/rocket/c_female.png",
+    "isSpecial": false,
+    "lineupPokemons": [
+      {
+        "slotNo": 1,
+        "no": 143,
+        "name": "卡比獸",
+        "originalName": "Snorlax",
+        "types": [
+          "一般"
+        ],
+        "catchable": true,
+        "shinyAvailable": false,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_143_00.png"
+      },
+      {
+        "slotNo": 2,
+        "no": 62,
+        "name": "蚊香泳士",
+        "originalName": "Poliwrath",
+        "types": [
+          "水",
+          "格鬥"
+        ],
+        "catchable": false,
+        "shinyAvailable": false,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_062_00.png"
+      },
+      {
+        "slotNo": 2,
+        "no": 143,
+        "name": "卡比獸",
+        "originalName": "Snorlax",
+        "types": [
+          "一般"
+        ],
+        "catchable": false,
+        "shinyAvailable": false,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_143_00.png"
+      },
+      {
+        "slotNo": 2,
+        "no": 282,
+        "name": "沙奈朵",
+        "originalName": "Gardevoir",
+        "types": [
+          "超能力",
+          "妖精"
+        ],
+        "catchable": false,
+        "shinyAvailable": false,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_282_00.png"
+      },
+      {
+        "slotNo": 3,
+        "no": 143,
+        "name": "卡比獸",
+        "originalName": "Snorlax",
+        "types": [
+          "一般"
+        ],
+        "catchable": false,
+        "shinyAvailable": false,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_143_00.png"
+      },
+      {
+        "slotNo": 3,
+        "no": 149,
+        "name": "快龍",
+        "originalName": "Dragonite",
+        "types": [
+          "龍",
+          "飛行"
+        ],
+        "catchable": false,
+        "shinyAvailable": false,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_149_00.png"
+      },
+      {
+        "slotNo": 3,
+        "no": 130,
+        "name": "暴鯉龍",
+        "originalName": "Gyarados",
+        "types": [
+          "水",
+          "飛行"
+        ],
+        "catchable": false,
+        "shinyAvailable": false,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_130_00.png"
+      }
+    ]
+  },
+  {
+    "quote": "這片海域很危險！",
+    "orignialQuote": "These waters are treacherous!",
+    "category": "鯉魚王",
+    "characterImageUrl": "https://assets.thesilphroad.com/img/rocket/c_male.png",
+    "isSpecial": false,
+    "lineupPokemons": [
+      {
+        "slotNo": 1,
+        "no": 129,
+        "name": "鯉魚王",
+        "originalName": "Magikarp",
+        "types": [
+          "水"
+        ],
+        "catchable": true,
+        "shinyAvailable": false,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_129_00.png"
+      },
+      {
+        "slotNo": 2,
+        "no": 129,
+        "name": "鯉魚王",
+        "originalName": "Magikarp",
+        "types": [
+          "水"
+        ],
+        "catchable": false,
+        "shinyAvailable": false,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_129_00.png"
+      },
+      {
+        "slotNo": 3,
+        "no": 129,
+        "name": "鯉魚王",
+        "originalName": "Magikarp",
+        "types": [
+          "水"
+        ],
+        "catchable": false,
+        "shinyAvailable": false,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_129_00.png"
+      },
+      {
+        "slotNo": 3,
+        "no": 130,
+        "name": "暴鯉龍",
+        "originalName": "Gyarados",
+        "types": [
+          "水",
+          "飛行"
+        ],
+        "catchable": false,
+        "shinyAvailable": false,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_130_00.png"
+      }
+    ]
+  },
+  {
+    "quote": "",
+    "orignialQuote": "",
+    "category": "幹部 希爾拉",
+    "characterImageUrl": "https://assets.thesilphroad.com/img/rocket/c_sierra.png",
+    "isSpecial": true,
+    "lineupPokemons": [
+      {
+        "slotNo": 1,
+        "no": 318,
+        "name": "利牙魚",
+        "originalName": "Carvanha",
+        "types": [
+          "水",
+          "惡"
+        ],
+        "catchable": true,
+        "shinyAvailable": true,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_318_00.png"
+      },
+      {
+        "slotNo": 2,
+        "no": 450,
+        "name": "河馬獸",
+        "originalName": "Hippowdon",
+        "types": [
+          "地面"
+        ],
+        "catchable": false,
+        "shinyAvailable": false,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_450_00.png"
+      },
+      {
+        "slotNo": 2,
+        "no": 474,
+        "name": "多邊獸Ｚ",
+        "originalName": "Porygon-Z",
+        "types": [
+          "一般"
+        ],
+        "catchable": false,
+        "shinyAvailable": false,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_474_00.png"
+      },
+      {
+        "slotNo": 2,
+        "no": 429,
+        "name": "夢妖魔",
+        "originalName": "Mismagius",
+        "types": [
+          "幽靈"
+        ],
+        "catchable": false,
+        "shinyAvailable": false,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_429_00.png"
+      },
+      {
+        "slotNo": 3,
+        "no": 229,
+        "name": "黑魯加",
+        "originalName": "Houndoom",
+        "types": [
+          "惡",
+          "火"
+        ],
+        "catchable": false,
+        "shinyAvailable": false,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_229_00.png"
+      },
+      {
+        "slotNo": 3,
+        "no": 365,
+        "name": "帝牙海獅",
+        "originalName": "Walrein",
+        "types": [
+          "冰",
+          "水"
+        ],
+        "catchable": false,
+        "shinyAvailable": false,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_365_00.png"
+      },
+      {
+        "slotNo": 3,
+        "no": 330,
+        "name": "沙漠蜻蜓",
+        "originalName": "Flygon",
+        "types": [
+          "地面",
+          "龍"
+        ],
+        "catchable": false,
+        "shinyAvailable": false,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_330_00.png"
+      }
+    ]
+  },
+  {
+    "quote": "",
+    "orignialQuote": "",
+    "category": "幹部 亞洛",
+    "characterImageUrl": "https://assets.thesilphroad.com/img/rocket/c_arlo.png",
+    "isSpecial": true,
+    "lineupPokemons": [
+      {
+        "slotNo": 1,
+        "no": 374,
+        "name": "鐵啞鈴",
+        "originalName": "Beldum",
+        "types": [
+          "鋼",
+          "超能力"
+        ],
+        "catchable": true,
+        "shinyAvailable": true,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_374_00.png"
+      },
+      {
+        "slotNo": 2,
+        "no": 282,
+        "name": "沙奈朵",
+        "originalName": "Gardevoir",
+        "types": [
+          "超能力",
+          "妖精"
+        ],
+        "catchable": false,
+        "shinyAvailable": false,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_282_00.png"
+      },
+      {
+        "slotNo": 2,
+        "no": 306,
+        "name": "波士可多拉",
+        "originalName": "Aggron",
+        "types": [
+          "鋼",
+          "岩石"
+        ],
+        "catchable": false,
+        "shinyAvailable": false,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_306_00.png"
+      },
+      {
+        "slotNo": 2,
+        "no": 392,
+        "name": "烈焰猴",
+        "originalName": "Infernape",
+        "types": [
+          "火",
+          "格鬥"
+        ],
+        "catchable": false,
+        "shinyAvailable": false,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_392_00.png"
+      },
+      {
+        "slotNo": 3,
+        "no": 212,
+        "name": "巨鉗螳螂",
+        "originalName": "Scizor",
+        "types": [
+          "蟲",
+          "鋼"
+        ],
+        "catchable": false,
+        "shinyAvailable": false,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_212_00.png"
+      },
+      {
+        "slotNo": 3,
+        "no": 373,
+        "name": "暴飛龍",
+        "originalName": "Salamence",
+        "types": [
+          "龍",
+          "飛行"
+        ],
+        "catchable": false,
+        "shinyAvailable": false,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_373_00.png"
+      },
+      {
+        "slotNo": 3,
+        "no": 348,
+        "name": "太古盔甲",
+        "originalName": "Armaldo",
+        "types": [
+          "岩石",
+          "蟲"
+        ],
+        "catchable": false,
+        "shinyAvailable": false,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_348_00.png"
+      }
+    ]
+  },
+  {
+    "quote": "",
+    "orignialQuote": "",
+    "category": "幹部 克里夫",
+    "characterImageUrl": "https://assets.thesilphroad.com/img/rocket/c_cliff.png",
+    "isSpecial": true,
+    "lineupPokemons": [
+      {
+        "slotNo": 1,
+        "no": 142,
+        "name": "化石翼龍",
+        "originalName": "Aerodactyl",
+        "types": [
+          "岩石",
+          "飛行"
+        ],
+        "catchable": true,
+        "shinyAvailable": true,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_142_00.png"
+      },
+      {
+        "slotNo": 2,
+        "no": 346,
+        "name": "搖籃百合",
+        "originalName": "Cradily",
+        "types": [
+          "岩石",
+          "草"
+        ],
+        "catchable": false,
+        "shinyAvailable": false,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_346_00.png"
+      },
+      {
+        "slotNo": 2,
+        "no": 475,
+        "name": "艾路雷朵",
+        "originalName": "Gallade",
+        "types": [
+          "超能力",
+          "格鬥"
+        ],
+        "catchable": false,
+        "shinyAvailable": false,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_475_00.png"
+      },
+      {
+        "slotNo": 2,
+        "no": 199,
+        "name": "呆呆王",
+        "originalName": "Slowking",
+        "types": [
+          "水",
+          "超能力"
+        ],
+        "catchable": false,
+        "shinyAvailable": false,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_199_00.png"
+      },
+      {
+        "slotNo": 3,
+        "no": 248,
+        "name": "班基拉斯",
+        "originalName": "Tyranitar",
+        "types": [
+          "岩石",
+          "惡"
+        ],
+        "catchable": false,
+        "shinyAvailable": false,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_248_00.png"
+      },
+      {
+        "slotNo": 3,
+        "no": 477,
+        "name": "黑夜魔靈",
+        "originalName": "Dusknoir",
+        "types": [
+          "幽靈"
+        ],
+        "catchable": false,
+        "shinyAvailable": false,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_477_00.png"
+      },
+      {
+        "slotNo": 3,
+        "no": 473,
+        "name": "象牙豬",
+        "originalName": "Mamoswine",
+        "types": [
+          "冰",
+          "地面"
+        ],
+        "catchable": false,
+        "shinyAvailable": false,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_473_00.png"
+      }
+    ]
+  },
+  {
+    "quote": "",
+    "orignialQuote": "",
+    "category": "冒牌手下",
+    "characterImageUrl": "https://assets.thesilphroad.com/img/rocket/c_female.png",
+    "isSpecial": true,
+    "lineupPokemons": [
+      {
+        "slotNo": 1,
+        "no": 69,
+        "name": "喇叭芽",
+        "originalName": "Bellsprout",
+        "types": [
+          "草",
+          "毒"
+        ],
+        "catchable": true,
+        "shinyAvailable": false,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_069_00.png"
+      },
+      {
+        "slotNo": 2,
+        "no": 20,
+        "name": "拉達",
+        "originalName": "Raticate",
+        "types": [
+          "一般"
+        ],
+        "catchable": true,
+        "shinyAvailable": false,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_020_00.png"
+      },
+      {
+        "slotNo": 2,
+        "no": 70,
+        "name": "口呆花",
+        "originalName": "Weepinbell",
+        "types": [
+          "草",
+          "毒"
+        ],
+        "catchable": true,
+        "shinyAvailable": false,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_070_00.png"
+      },
+      {
+        "slotNo": 3,
+        "no": 20,
+        "name": "拉達",
+        "originalName": "Raticate",
+        "types": [
+          "一般"
+        ],
+        "catchable": false,
+        "shinyAvailable": false,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_020_00.png"
+      },
+      {
+        "slotNo": 3,
+        "no": 143,
+        "name": "卡比獸",
+        "originalName": "Snorlax",
+        "types": [
+          "一般"
+        ],
+        "catchable": false,
+        "shinyAvailable": false,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_143_00.png"
+      }
+    ]
+  },
+  {
+    "quote": "",
+    "orignialQuote": "",
+    "category": "阪木老大",
+    "characterImageUrl": "https://assets.thesilphroad.com/img/rocket/c_giovanni.png",
+    "isSpecial": true,
+    "lineupPokemons": [
+      {
+        "slotNo": 1,
+        "no": 53,
+        "name": "貓老大",
+        "originalName": "Persian",
+        "types": [
+          "一般"
+        ],
+        "catchable": false,
+        "shinyAvailable": false,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_053_00.png"
+      },
+      {
+        "slotNo": 2,
+        "no": 115,
+        "name": "袋獸",
+        "originalName": "Kangaskhan",
+        "types": [
+          "一般"
+        ],
+        "catchable": false,
+        "shinyAvailable": false,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_115_00.png"
+      },
+      {
+        "slotNo": 2,
+        "no": 34,
+        "name": "尼多王",
+        "originalName": "Nidoking",
+        "types": [
+          "毒",
+          "地面"
+        ],
+        "catchable": false,
+        "shinyAvailable": false,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_034_00.png"
+      },
+      {
+        "slotNo": 2,
+        "no": 445,
+        "name": "烈咬陸鯊",
+        "originalName": "Garchomp",
+        "types": [
+          "龍",
+          "地面"
+        ],
+        "catchable": false,
+        "shinyAvailable": false,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_445_00.png"
+      },
+      {
+        "slotNo": 3,
+        "no": 144,
+        "name": "急凍鳥",
+        "originalName": "Articuno",
+        "types": [
+          "冰",
+          "飛行"
+        ],
+        "catchable": true,
+        "shinyAvailable": false,
+        "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_144_00.png"
+      }
+    ]
+  }
+]
