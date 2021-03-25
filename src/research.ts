@@ -48,10 +48,11 @@ const translateDescription = (description: string) => {
     const [, ...matches] = description.match(new RegExp(matchedRule.pattern, 'i'))!;
 
     // Translate term 'pokemon type'.
-    const types = description.match(/(\w+-type)/ig) || [];
+    const types = description.match(/(\w+-(type)?)/ig) || [];
 
     let translatedDescription = types.reduce((currentDisplayText, type) => {
-      return currentDisplayText.replace(type, transType(type)!);
+      const formattedType = /-type/i.test(type) ? type : `${type}type`
+      return currentDisplayText.replace(type, transType(formattedType)!);
     }, sprintf(matchedRule.displayText, ...matches));
 
     // Replace specific pokemon name.
