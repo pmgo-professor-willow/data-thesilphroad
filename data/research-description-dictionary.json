@@ -80,7 +80,7 @@
         "displayText": "為夥伴拍攝 1 張照片"
     },
     {
-        "pattern": "Take a snapshot of an (\\w+-type) Pokémon\\.{0,1}$",
+        "pattern": "Take a snapshot of an? (\\w+-type) Pokémon\\.{0,1}$",
         "displayText": "為%1$s系寶可夢拍攝 1 張照片"
     },
     {
@@ -104,7 +104,7 @@
         "displayText": "連續用曲球投出 %1$s 次 %2$s"
     },
     {
-        "pattern": "^Make a?n (\\w+) Throw\\.{0,1}$",
+        "pattern": "^Make an? (\\w+) Throw\\.{0,1}$",
         "displayText": "投出 1 次 %1$s"
     },
     {
@@ -122,6 +122,10 @@
     {
         "pattern": "^Use (\\d+) Berries to help Catch Pokémon\\.{0,1}$",
         "displayText": "使用 %1$s 個莓果來捕捉寶可夢"
+    },
+    {
+        "pattern": "^Defeat a Team GO Rocket Grunt\\.{0,1}$",
+        "displayText": "打敗 1 次火箭隊手下"
     },
     {
         "pattern": "^Defeat (\\d+) Team GO Rocket Grunts\\.{0,1}$",
@@ -154,6 +158,10 @@
     {
         "pattern": "^Trade a Pokémon\\.{0,1}$",
         "displayText": "交換 1 次寶可夢"
+    },
+    {
+        "pattern": "^Battle another Trainer\\.{0,1}$",
+        "displayText": "與其他訓練家對戰 1 次"
     },
     {
         "pattern": "^Spin (\\d+) PokéStops or Gyms\\.{0,1}$",
