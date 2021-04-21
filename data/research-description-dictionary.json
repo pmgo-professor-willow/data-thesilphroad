@@ -124,6 +124,10 @@
         "displayText": "使用 %1$s 個莓果來捕捉寶可夢"
     },
     {
+        "pattern": "^Use (\\d+) Golden Razz Berries to help catch Pokémon\\.{0,1}$",
+        "displayText": "使用 %1$s 個金莓果來捕捉寶可夢"
+    },
+    {
         "pattern": "^Defeat a Team GO Rocket Grunt\\.{0,1}$",
         "displayText": "打敗 1 次火箭隊手下"
     },
