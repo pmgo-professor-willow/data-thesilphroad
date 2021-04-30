@@ -76,6 +76,10 @@
         "displayText": "傳送 %1$s 隻寶可夢"
     },
     {
+        "pattern": "^Take (\\d+) snapshots of wild Pokémon\\.{0,1}$",
+        "displayText": "為野生寶可夢拍攝 %1$s 張照片"
+    },
+    {
         "pattern": "^Take a snapshot of your buddy\\.{0,1}$",
         "displayText": "為夥伴拍攝 1 張照片"
     },
