@@ -133,11 +133,11 @@
     },
     {
         "pattern": "^(Defeat|Battle) a Team GO Rocket Grunt\\.{0,1}$",
-        "displayText": "打敗 1 次 GO 火箭隊手下"
+        "displayText": "打敗 1 個 GO 火箭隊手下"
     },
     {
         "pattern": "^(Defeat|Battle) (\\d+) Team GO Rocket Grunts\\.{0,1}$",
-        "displayText": "打敗 %2$s 次 GO 火箭隊手下"
+        "displayText": "打敗 %2$s 個 GO 火箭隊手下"
     },
     {
         "pattern": "^Win a raid\\.{0,1}$",
