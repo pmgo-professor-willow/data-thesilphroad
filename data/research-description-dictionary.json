@@ -60,6 +60,10 @@
         "displayText": "捕捉 %1$s 種不同的寶可夢"
     },
     {
+        "pattern": "^Catch (\\d+) Shadow Pokémon.\\.{0,1}$",
+        "displayText": "捕捉 %1$s 隻暗影寶可夢"
+    },
+    {
         "pattern": "^Hatch an Egg\\.{0,1}$",
         "displayText": "孵化 1 顆蛋"
     },
@@ -138,6 +142,14 @@
     {
         "pattern": "^(Defeat|Battle) (\\d+) Team GO Rocket Grunts\\.{0,1}$",
         "displayText": "打敗 %2$s 個 GO 火箭隊手下"
+    },
+    {
+        "pattern": "^(Defeat|Battle) a Team GO Rocket Leader\\.{0,1}$",
+        "displayText": "打敗 1 個 GO 火箭隊隊長"
+    },
+    {
+        "pattern": "^(Defeat|Battle) (\\d+) Team GO Rocket Leaders\\.{0,1}$",
+        "displayText": "打敗 %2$s 個 GO 火箭隊隊長"
     },
     {
         "pattern": "^Win a raid\\.{0,1}$",
