@@ -12,6 +12,22 @@
         "displayText": "進化 1 隻寶可夢"
     },
     {
+        "pattern": "^Evolve a (\\w+-type) Pokémon\\.{0,1}$",
+        "displayText": "進化 1 隻%1$s系寶可夢"
+    },
+    {
+        "pattern": "^Evolve (\\d+) (\\w+-type) Pokémon\\.{0,1}$",
+        "displayText": "進化 %1$s 隻%2$s系寶可夢"
+    },
+    {
+        "pattern": "^Evolve a (\\w+)\\.{0,1}$",
+        "displayText": "進化 1 隻##POKEMON_%1$s##"
+    },
+    {
+        "pattern": "^Evolve (\\d+) (\\w+)\\.{0,1}$",
+        "displayText": "進化 %1$s 隻##POKEMON_%2$s##"
+    },
+    {
         "pattern": "^Purify a Shadow Pokémon\\.{0,1}$",
         "displayText": "淨化 1 隻暗影寶可夢"
     },
@@ -170,6 +186,14 @@
     {
         "pattern": "^Win a level 3 or higher raid\\.{0,1}$",
         "displayText": "在等級三以上的團體戰中獲勝 1 次"
+    },
+    {
+        "pattern": "^Win a raid in under 60 seconds\\.{0,1}$",
+        "displayText": "在 60 秒內獲得團體戰勝利"
+    },
+    {
+        "pattern": "^Win a raid in under 10 minutes\\.{0,1}$",
+        "displayText": "在 10 分內獲得團體戰勝利"
     },
     {
         "pattern": "^Battle in GO Battle League\\.{0,1}$",
