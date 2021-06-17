@@ -80,6 +80,14 @@
         "displayText": "捕捉 %1$s 隻暗影寶可夢"
     },
     {
+        "pattern": "^South- Catch (\\d+) Pokémon.\\.{0,1}$",
+        "displayText": "[南半球] 捕捉 %1$s 隻寶可夢"
+    },
+    {
+        "pattern": "^North- Catch (\\d+) Pokémon.\\.{0,1}$",
+        "displayText": "[北半球] 捕捉 %1$s 隻寶可夢"
+    },
+    {
         "pattern": "^Hatch an Egg\\.{0,1}$",
         "displayText": "孵化 1 顆蛋"
     },
@@ -126,6 +134,22 @@
     {
         "pattern": "^Earn (\\d+) candies walking with your buddy\\.{0,1}$",
         "displayText": "和夥伴一起走路，取得 %1$s 顆糖果"
+    },
+    {
+        "pattern": "^South- Earn a candy walking with your buddy\\.{0,1}$",
+        "displayText": "[南半球] 和夥伴一起走路，取得 1 顆糖果"
+    },
+    {
+        "pattern": "^South- Earn (\\d+) candies walking with your buddy\\.{0,1}$",
+        "displayText": "[南半球] 和夥伴一起走路，取得 %1$s 顆糖果"
+    },
+    {
+        "pattern": "^North- Earn a candy walking with your buddy\\.{0,1}$",
+        "displayText": "[北半球] 和夥伴一起走路，取得 1 顆糖果"
+    },
+    {
+        "pattern": "^North- Earn (\\d+) candies walking with your buddy\\.{0,1}$",
+        "displayText": "[北半球] 和夥伴一起走路，取得 %1$s 顆糖果"
     },
     {
         "pattern": "^Make (\\d+) Curveball Throws in a row\\.{0,1}$",
