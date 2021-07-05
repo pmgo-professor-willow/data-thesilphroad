@@ -112,12 +112,24 @@
         "displayText": "為野生寶可夢拍攝 %1$s 張照片"
     },
     {
+        "pattern": "^Take a snapshot of a wild (\\w+-type) Pokémon\\.{0,1}$",
+        "displayText": "為野生%1$s寶可夢拍攝 1 張照片"
+    },
+    {
+        "pattern": "Take (\\d+) snapshots of wild (\\w+-type) Pokémon\\.{0,1}$",
+        "displayText": "為野生%2$s系寶可夢拍攝 %1$s 張照片"
+    },
+    {
         "pattern": "^Take a snapshot of your buddy\\.{0,1}$",
         "displayText": "為夥伴拍攝 1 張照片"
     },
     {
         "pattern": "Take a snapshot of an? (\\w+-type) Pokémon\\.{0,1}$",
         "displayText": "為%1$s系寶可夢拍攝 1 張照片"
+    },
+    {
+        "pattern": "Take (\\d+) snapshots of (\\w+-type) Pokémon\\.{0,1}$",
+        "displayText": "為%2$s系寶可夢拍攝 %1$s 張照片"
     },
     {
         "pattern": "^Give your buddy (\\d+) treats\\.{0,1}$",
@@ -177,11 +189,15 @@
     },
     {
         "pattern": "^Use (\\d+) Berries to help Catch Pokémon\\.{0,1}$",
-        "displayText": "使用 %1$s 個莓果來捕捉寶可夢"
+        "displayText": "在捕捉寶可夢時使用 %1$s 顆莓果"
+    },
+    {
+        "pattern": "^Use (\\d+) Pinap Berries while catching Pokémon\\.{0,1}$",
+        "displayText": "在捕捉寶可夢時使用 %1$s 顆凰梨果"
     },
     {
         "pattern": "^Use (\\d+) Golden Razz Berries to help catch Pokémon\\.{0,1}$",
-        "displayText": "使用 %1$s 個金莓果來捕捉寶可夢"
+        "displayText": "在捕捉寶可夢時使用 %1$s 顆金莓果"
     },
     {
         "pattern": "^(Defeat|Battle) a Team GO Rocket Grunt\\.{0,1}$",
