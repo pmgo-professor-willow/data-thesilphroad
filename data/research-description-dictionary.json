@@ -188,23 +188,27 @@
         "displayText": "連續投出 %1$s 次 %2$s"
     },
     {
-        "pattern": "^Use (\\d+) Berries to help Catch Pokémon\\.{0,1}$",
+        "pattern": "^Use (\\d+) Berries (while catching|to help catch) Pokémon\\.{0,1}$",
         "displayText": "在捕捉寶可夢時使用 %1$s 顆莓果"
     },
     {
-        "pattern": "^Use (\\d+) Pinap Berries while catching Pokémon\\.{0,1}$",
+        "pattern": "^Use (\\d+) Razz Berries (while catching|to help catch) Pokémon\\.{0,1}$",
+        "displayText": "在捕捉寶可夢時使用 %1$s 顆蔓莓果"
+    },
+    {
+        "pattern": "^Use (\\d+) Pinap Berries (while catching|to help catch) Pokémon\\.{0,1}$",
         "displayText": "在捕捉寶可夢時使用 %1$s 顆凰梨果"
     },
     {
-        "pattern": "^Use (\\d+) Golden Razz Berries to help catch Pokémon\\.{0,1}$",
+        "pattern": "^Use (\\d+) Golden Razz Berries (while catching|to help catch) Pokémon\\.{0,1}$",
         "displayText": "在捕捉寶可夢時使用 %1$s 顆金莓果"
     },
     {
-        "pattern": "^(Defeat|Battle) a Team GO Rocket Grunt\\.{0,1}$",
+        "pattern": "^(Defeat|Battle) a Team GO Rocket (members|grunt)\\.{0,1}$",
         "displayText": "打敗 1 個 GO 火箭隊手下"
     },
     {
-        "pattern": "^(Defeat|Battle) (\\d+) Team GO Rocket Grunts\\.{0,1}$",
+        "pattern": "^(Defeat|Battle) (\\d+) Team GO Rocket (members|grunts)\\.{0,1}$",
         "displayText": "打敗 %2$s 個 GO 火箭隊手下"
     },
     {
