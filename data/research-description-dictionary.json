@@ -192,6 +192,10 @@
         "displayText": "在捕捉寶可夢時使用 %1$s 顆莓果"
     },
     {
+        "pattern": "^Use (\\d+) Nanab Berries (while catching|to help catch) Pokémon\\.{0,1}$",
+        "displayText": "在捕捉寶可夢時使用 %1$s 顆蕉香果"
+    },
+    {
         "pattern": "^Use (\\d+) Razz Berries (while catching|to help catch) Pokémon\\.{0,1}$",
         "displayText": "在捕捉寶可夢時使用 %1$s 顆蔓莓果"
     },
@@ -246,6 +250,10 @@
     {
         "pattern": "^Win in the GO Battle League\\.{0,1}$",
         "displayText": "在 GO 對戰聯盟獲得 1 場勝利"
+    },
+    {
+        "pattern": "^Send a Gift to a friend\\.{0,1}$",
+        "displayText": "發送 1 個友情禮物"
     },
     {
         "pattern": "^Send (\\d+) Gifts to friends\\.{0,1}$",
