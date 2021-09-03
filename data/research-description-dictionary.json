@@ -276,6 +276,10 @@
         "displayText": "使用 1 個薰香"
     },
     {
+        "pattern": "^Walk (\\d+) km\\.{0,1}$",
+        "displayText": "行走 %1$s 公里"
+    },
+    {
         "pattern": "^AR Mapping\\.{0,1}$",
         "displayText": "AR Mapping"
     }
