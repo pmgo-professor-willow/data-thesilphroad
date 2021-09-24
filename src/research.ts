@@ -130,7 +130,9 @@ const getResearches = async () => {
             max: maxCP,
           },
           shinyAvailable,
-          imageUrl: urlJoin(assetUrl, `pokemon_icon_${no.toString().padStart(3, '0')}_${formIndex}.png`),
+          // TODO: using more stable version
+          imageUrl: imageUrlRaw,
+          // imageUrl: urlJoin(assetUrl, `pokemon_icon_${no.toString().padStart(3, '0')}_${formIndex}.png`),
         };
       });
 

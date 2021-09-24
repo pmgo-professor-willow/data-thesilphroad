@@ -120,6 +120,10 @@
         "displayText": "為野生%2$s系寶可夢拍攝 %1$s 張照片"
     },
     {
+        "pattern": "Take a snapshot of (\\w+), (\\w+) or (\\w+) in the wild\\.{0,1}$",
+        "displayText": "為野生的##POKEMON_%1$s##、##POKEMON_%2$s##或##POKEMON_%3$s##拍攝 1 張照片"
+    },
+    {
         "pattern": "^Take a snapshot of your buddy\\.{0,1}$",
         "displayText": "為夥伴拍攝 1 張照片"
     },
