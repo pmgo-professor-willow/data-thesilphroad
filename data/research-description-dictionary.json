@@ -72,19 +72,23 @@
         "displayText": "捕捉 %1$s 隻##POKEMON_%2$s##"
     },
     {
-        "pattern": "^Catch (\\d+) different species of Pokémon.\\.{0,1}$",
+        "pattern": "^Catch (\\d+) different species of Pokémon\\.{0,1}$",
         "displayText": "捕捉 %1$s 種不同的寶可夢"
     },
     {
-        "pattern": "^Catch (\\d+) Shadow Pokémon.\\.{0,1}$",
+        "pattern": "^Catch (\\d+) different species of (\\w+-type) Pokémon\\.{0,1}$",
+        "displayText": "捕捉 %1$s 隻不同的%2$s系寶可夢"
+    },
+    {
+        "pattern": "^Catch (\\d+) Shadow Pokémon\\.{0,1}$",
         "displayText": "捕捉 %1$s 隻暗影寶可夢"
     },
     {
-        "pattern": "^South- Catch (\\d+) Pokémon.\\.{0,1}$",
+        "pattern": "^South- Catch (\\d+) Pokémon\\.{0,1}$",
         "displayText": "[南半球] 捕捉 %1$s 隻寶可夢"
     },
     {
-        "pattern": "^North- Catch (\\d+) Pokémon.\\.{0,1}$",
+        "pattern": "^North- Catch (\\d+) Pokémon\\.{0,1}$",
         "displayText": "[北半球] 捕捉 %1$s 隻寶可夢"
     },
     {
@@ -256,11 +260,15 @@
         "displayText": "在 GO 對戰聯盟獲得 1 場勝利"
     },
     {
-        "pattern": "^Send a Gift to a friend\\.{0,1}$",
+        "pattern": "^Win a Trainer Battle in the GO Battle League\\.{0,1}$",
+        "displayText": "在 GO 對戰聯盟的訓練家對戰中獲勝 1 次"
+    },
+    {
+        "pattern": "^(Send|Sent) a Gift to a friend\\.{0,1}$",
         "displayText": "發送 1 個友情禮物"
     },
     {
-        "pattern": "^Send (\\d+) Gifts to friends\\.{0,1}$",
+        "pattern": "^(Send|Sent) (\\d+) Gifts to friends\\.{0,1}$",
         "displayText": "發送 %1$s 個友情禮物"
     },
     {
