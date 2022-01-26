@@ -87,7 +87,7 @@ const getResearches = async () => {
     researchItems.forEach((researchItem, i) => {
       const rewardPokemonItems = researchItem.querySelectorAll('.taskRewardsWrap .task-reward.pokemon');
       const rewardPokemons = rewardPokemonItems.map((rewardPokemonItem) => {
-        const imageUrlRaw = rewardPokemonItem.querySelector('img').getAttribute('src')!;
+        const imageUrlRaw = rewardPokemonItem.querySelector('img')?.getAttribute('src')!;
 
         // No.
         let no = -1;
@@ -139,9 +139,9 @@ const getResearches = async () => {
       });
 
       researches.push({
-        description: translateDescription(researchItem.querySelector('.taskText').rawText.trim()),
-        originalDescription: researchItem.querySelector('.taskText').rawText.trim(),
-        category: categoryMapping(researchGroupItem.querySelector('h3').rawText.trim()),
+        description: translateDescription(researchItem.querySelector('.taskText')?.rawText.trim()!),
+        originalDescription: researchItem.querySelector('.taskText')?.rawText.trim()!,
+        category: categoryMapping(researchGroupItem.querySelector('h3')?.rawText.trim()!),
         rewardPokemons,
       });
     });

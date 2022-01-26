@@ -2,7 +2,7 @@
 import _ from 'lodash';
 import fetch from 'node-fetch';
 import { parse } from 'node-html-parser';
-import { XmlEntities } from 'html-entities';
+import { decode } from 'html-entities';
 import urlJoin from 'url-join';
 import { getPokemonNameByNo, getPokemonByFuzzyName } from 'pmgo-pokedex';
 import { sprintf } from 'sprintf-js';
@@ -30,8 +30,6 @@ interface LineupPokemon {
   shinyAvailable: boolean;
   imageUrl: string;
 }
-
-const entities = new XmlEntities();
 
 const categoryMapping = (categoryTag: string) => {
   const matchedTag = tags.find((tag) => tag.text === categoryTag);
@@ -129,14 +127,14 @@ const getRocketInvasions = async () => {
       return all;
     }, [] as LineupPokemon[]);
 
-    const orignialQuote = entities.decode(
+    const orignialQuote = decode(
       rocketInvasionItem.querySelector('.lineupHeader .quote')?.rawText.trim().replace(/[“”]/g, '') || ''
     );
 
-    const categoryElement = rocketInvasionItem.querySelector('.lineupHeader h3');
-    const categoryRaw = categoryElement.rawText.trim();
+    const categoryElement = rocketInvasionItem.querySelector('.lineupHeader h3')!;
+    const categoryRaw = categoryElement.rawText.trim()!;
 
-    const characterImageUrlRaw = rocketInvasionItem.querySelector('.lineupHeader .character').getAttribute('style')!
+    const characterImageUrlRaw = rocketInvasionItem.querySelector('.lineupHeader .character')?.getAttribute('style')!
     const { 1: characterImageUrl } = characterImageUrlRaw.match(/url\((.+)\)/)!;
 
 
