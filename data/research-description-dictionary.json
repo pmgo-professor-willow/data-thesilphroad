@@ -184,6 +184,10 @@
         "displayText": "投出 1 次 %1$s"
     },
     {
+        "pattern": "^Make (\\d+) Curveball Throws\\.{0,1}$",
+        "displayText": "投出 %1$s 次曲球"
+    },
+    {
         "pattern": "^Make (\\d+) (\\w+) Throws\\.{0,1}$",
         "displayText": "投出 %1$s 次 %2$s"
     },
