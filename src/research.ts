@@ -41,7 +41,9 @@ const categoryMapping = (categoryTag: string) => {
   }
 };
 
-const translateDescription = (description: string) => {
+const translateDescription = (descriptionRaw: string) => {
+  // Remove the prefix: 'Event: '.
+  const description = descriptionRaw.replace(/^Event: /, '');
   const matchedRule = descriptionDict.find((rule) => (new RegExp(rule.pattern, 'i')).test(description));
 
   if (matchedRule) {
