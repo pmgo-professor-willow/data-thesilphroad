@@ -34,7 +34,7 @@ const extractEggsInfo = (root: HTMLElement, category: string, selector: string) 
     });
     const shinyAvailable = !!eggElement.querySelector('.shinyIcon');
     const regional = !!eggElement.querySelector('.regionalIcon');
-    const imageUrl = eggElement.querySelector('img')?.getAttribute('src')!;
+    const imageUrl = eggElement.querySelector(':not(.icons) > img')?.getAttribute('src')!;
     const rate = parseFloat(eggElement.querySelector('.speciesCount b')!?.text.trim());
     
     return {
