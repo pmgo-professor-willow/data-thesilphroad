@@ -144,6 +144,10 @@
         "displayText": "餵夥伴吃 %1$s 個點心"
     },
     {
+        "pattern": "^Play with your buddy$",
+        "displayText": "和夥伴一起玩"
+    },
+    {
         "pattern": "^Earn (\\d+) hearts with your buddy\\.{0,1}$",
         "displayText": "和夥伴獲得 %1$s 顆心心"
     },
@@ -256,19 +260,19 @@
         "displayText": "在 10 分內獲得團體戰勝利"
     },
     {
-        "pattern": "^Battle in (?:the)? GO Battle League\\.{0,1}$",
+        "pattern": "^Battle in (?:the )?GO Battle League\\.{0,1}$",
         "displayText": "在 GO 對戰聯盟進行對戰 1 次"
     },
     {
-        "pattern": "^Battle in (?:the)? GO Battle League (\\d+) times\\.{0,1}$",
+        "pattern": "^Battle in (?:the )?GO Battle League (\\d+) times\\.{0,1}$",
         "displayText": "在 GO 對戰聯盟進行對戰 %1$s 次"
     },
     {
-        "pattern": "^Win in (?:the)? GO Battle League\\.{0,1}$",
+        "pattern": "^Win in (?:the )?GO Battle League\\.{0,1}$",
         "displayText": "在 GO 對戰聯盟獲得 1 場勝利"
     },
     {
-        "pattern": "^Win a Trainer Battle in (?:the)? GO Battle League\\.{0,1}$",
+        "pattern": "^Win a Trainer Battle in (?:the )?GO Battle League\\.{0,1}$",
         "displayText": "在 GO 對戰聯盟的訓練家對戰中獲勝 1 次"
     },
     {
@@ -278,6 +282,10 @@
     {
         "pattern": "^(Send|Sent) (\\d+) Gifts to friends\\.{0,1}$",
         "displayText": "發送 %1$s 個友情禮物"
+    },
+    {
+        "pattern": "^Send (\\d+) gifts and add a sticker to each$",
+        "displayText": "發送 %1$s 個貼了貼紙的友情禮物"
     },
     {
         "pattern": "^Open (\\d+) Gifts\\.{0,1}$",
